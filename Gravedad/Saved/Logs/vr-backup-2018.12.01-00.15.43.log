@@ -1,0 +1,1582 @@
+﻿Log file open, 11/30/18 17:52:16
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine without a game
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: Loading recent project file: ../../../../../vr/vr.uproject
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.728323
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin DatasmithCADImporter
+LogPluginManager: Mounting plugin DatasmithFBXImporter
+LogPluginManager: Mounting plugin DatasmithImporter
+LogPluginManager: Mounting plugin MDLImporter
+LogPluginManager: Mounting plugin StaticMeshEditorExtension
+LogPluginManager: Mounting plugin VariantManager
+LogStreaming: Display: Took  0.751s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogHMD: Failed initializing OVRPlugin 1.28.0
+LogInit: Build: ++UE4+Release-4.21-CL-4541578
+LogInit: Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Compatible Engine Version: 4.21.0-4541578+++UE4+Release-4.21
+LogInit: Net CL: 4541578
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Nov  6 2018 02:04:24
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.21
+LogInit: Command Line: 
+LogInit: Base Directory: D:/ue4/UE_4.21/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 22
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 26
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 27
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 17
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 4
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogStreaming: Display: Took  0.041s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:823][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2018.11.30-22.52.19:823][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:8388607]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.MergeGCClusters:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2018.11.30-22.52.19:824][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:824][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.19:885][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:885][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.30-22.52.19:885][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.30-22.52.19:885][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:885][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.30-22.52.19:885][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:885][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.30-22.52.19:885][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.30-22.52.19:886][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.30-22.52.19:887][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.30-22.52.19:888][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.30-22.52.19:888][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.30-22.52.19:888][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.30-22.52.19:888][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.19:888][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.30-22.52.19:888][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.30-22.52.19:896][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-22.52.19:897][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.11.30-22.52.19:995][  0]LogHAL: Display: Platform has ~ 12 GB [12755001344 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.30-22.52.20:010][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:1]]
+[2018.11.30-22.52.20:010][  0]LogInit: Going up to parent DeviceProfile []
+[2018.11.30-22.52.20:010][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:010][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2018.11.30-22.52.20:010][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2018.11.30-22.52.20:011][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/vr/Saved/Config/Windows/Scalability.ini]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2018.11.30-22.52.20:012][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2018.11.30-22.52.20:026][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2018.11.30-22.52.20:026][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/vr/Saved/Config/Windows/Engine.ini]
+[2018.11.30-22.52.20:744][  0]LogInit: Computer: MSI
+[2018.11.30-22.52.20:744][  0]LogInit: User: saxhack
+[2018.11.30-22.52.20:744][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.11.30-22.52.20:744][  0]LogInit: High frequency timer resolution =2.531247 MHz
+[2018.11.30-22.52.20:745][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2018.11.30-22.52.20:745][  0]LogMemory: Platform Memory Stats for Windows
+[2018.11.30-22.52.20:745][  0]LogMemory: Process Physical Memory: 104.96 MB used, 104.96 MB peak
+[2018.11.30-22.52.20:745][  0]LogMemory: Process Virtual Memory: 94.83 MB used, 94.83 MB peak
+[2018.11.30-22.52.20:745][  0]LogMemory: Physical Memory: 4683.40 MB used,  7480.72 MB free, 12164.12 MB total
+[2018.11.30-22.52.20:745][  0]LogMemory: Virtual Memory: 4668.19 MB used,  134213056.00 MB free, 134217728.00 MB total
+[2018.11.30-22.52.22:472][  0]LogInit: Using OS detected language (en-US).
+[2018.11.30-22.52.22:472][  0]LogInit: Using OS detected locale (en-US).
+[2018.11.30-22.52.22:507][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.11.30-22.52.23:860][  0]LogStreaming: Display: Took  1.376s to InitEngineTextLocalization.
+[2018.11.30-22.52.23:876][  0]LogInit: Setting process to per monitor DPI aware
+[2018.11.30-22.52.25:672][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.11.30-22.52.25:672][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.11.30-22.52.29:974][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.11.30-22.52.29:974][  0]LogD3D11RHI: D3D11 adapters:
+[2018.11.30-22.52.30:092][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.11.30-22.52.30:092][  0]LogD3D11RHI:       6052/0/6082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.11.30-22.52.30:105][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2018.11.30-22.52.30:105][  0]LogD3D11RHI:       128/0/6082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.11.30-22.52.30:108][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.11.30-22.52.30:108][  0]LogD3D11RHI:       0/0/6082 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.11.30-22.52.30:108][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.11.30-22.52.30:196][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.11.30-22.52.30:196][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.11.30-22.52.30:196][  0]LogWindows: EnumDisplayDevices:
+[2018.11.30-22.52.30:196][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2018.11.30-22.52.30:197][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.30-22.52.30:197][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2018.11.30-22.52.30:198][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.30-22.52.30:198][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.30-22.52.30:198][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.30-22.52.30:199][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.11.30-22.52.30:199][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.11.30-22.52.30:199][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.11.30-22.52.30:199][  0]LogD3D11RHI:   Driver Version: 399.01 (internal:24.21.13.9901, unified:399.01)
+[2018.11.30-22.52.30:199][  0]LogD3D11RHI:      Driver Date: 8-13-2018
+[2018.11.30-22.52.30:200][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.11.30-22.52.30:301][  0]LogD3D11RHI: Async texture creation enabled
+[2018.11.30-22.52.31:237][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.11.30-22.52.34:382][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.30-22.52.34:474][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.30-22.52.34:503][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.30-22.52.34:526][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.30-22.52.34:563][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.30-22.52.34:681][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.30-22.52.34:703][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.30-22.52.34:738][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.30-22.52.34:760][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:911][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:912][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.52.34:931][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.30-22.52.35:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-22.52.35:118][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-22.52.35:165][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-22.52.35:165][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-22.52.35:196][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.30-22.52.35:218][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.30-22.52.35:249][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.30-22.52.35:279][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.30-22.52.35:418][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-22.52.35:418][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-22.52.35:418][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.11.30-22.52.36:546][  0]LogShaderCompilers: Guid format shader working directory is 31 characters bigger than the processId version (../../../../../vr/Intermediate/Shaders/WorkingDirectory/8032/).
+[2018.11.30-22.52.36:546][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/saxhack/AppData/Local/Temp/UnrealShaderWorkingDir/049FA3E6442CFBE09712559ED604ADA4/'.
+[2018.11.30-22.52.36:582][  0]LogXGEController: Cleaning working directory: C:/Users/saxhack/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.11.30-22.52.36:583][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.11.30-22.52.36:583][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.11.30-22.52.36:584][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.30-22.52.41:037][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.30-22.52.41:402][  0]LogDerivedDataCache: Loaded boot cache 0.24s 71MB C:/Users/saxhack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.30-22.52.41:402][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/saxhack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.30-22.52.41:402][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../vr/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.11.30-22.52.41:402][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.11.30-22.52.41:403][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../vr/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.11.30-22.52.41:403][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.11.30-22.52.41:606][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.30-22.52.41:746][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2018.11.30-22.52.41:770][  0]LogDerivedDataCache: Using Local data cache path C:/Users/saxhack/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.11.30-22.52.41:770][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.11.30-22.52.41:770][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.11.30-22.52.42:018][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.11.30-22.52.42:070][  0]LogSlate: Using FreeType 2.6.0
+[2018.11.30-22.52.42:141][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.11.30-22.52.43:093][  0]LogAssetRegistry: FAssetRegistry took 0.0416 seconds to start up
+[2018.11.30-22.52.52:021][  0]LogInit: Selected Device Profile: [Windows]
+[2018.11.30-22.52.55:081][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.11.30-22.52.55:614][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.11.30-22.52.55:626][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.11.30-22.52.55:670][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.11.30-22.52.55:670][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.11.30-22.52.57:099][  0]LogNetVersion: vr 1.0.0, NetCL: 4541578, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2004621220)
+[2018.11.30-22.53.01:696][  0]LogPackageLocalizationCache: Processed 14 localized package path(s) for 2 prioritized culture(s) in 0.221389 seconds
+[2018.11.30-22.53.01:721][  0]LogUObjectArray: 39775 objects as part of root set at end of initial load.
+[2018.11.30-22.53.01:721][  0]LogUObjectAllocator: 6914664 out of 0 bytes used by permanent object pool.
+[2018.11.30-22.53.01:721][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.11.30-22.53.17:189][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.11.30-22.53.17:220][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.11.30-22.53.18:977][  0]SourceControl: Source control is disabled
+[2018.11.30-22.53.18:978][  0]SourceControl: Source control is disabled
+[2018.11.30-22.53.19:068][  0]SourceControl: Source control is disabled
+[2018.11.30-22.53.19:088][  0]SourceControl: Source control is disabled
+[2018.11.30-22.53.20:109][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.11.30-22.53.20:299][  0]LogOcInput: OculusInput pre-init called
+[2018.11.30-22.53.24:603][  0]LogEngine: Initializing Engine...
+[2018.11.30-22.53.24:620][  0]LogHMD: Failed to initialize OpenVR with code 100
+[2018.11.30-22.53.24:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-22.53.24:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-22.53.24:635][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-22.53.24:636][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-22.53.25:307][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.11.30-22.53.25:696][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.11.30-22.53.25:907][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.11.30-22.53.26:093][  0]LogInit: FAudioDevice initialized.
+[2018.11.30-22.53.26:094][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.11.30-22.53.26:180][  0]LogDerivedDataCache: Saved boot cache 0.09s 71MB C:/Users/saxhack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc.
+[2018.11.30-22.53.26:199][  0]LogInit: Texture streaming: Enabled
+[2018.11.30-22.53.26:282][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.11.30-22.53.26:282][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={DE63FC06-4614-C862-ABDB-8D9FB71900C6}
+[2018.11.30-22.53.26:490][  0]LogInit: Transaction tracking system initialized
+[2018.11.30-22.53.26:781][  0]BlueprintLog: New page: Editor Load
+[2018.11.30-22.53.27:718][  0]LocalizationService: Localization service is disabled
+[2018.11.30-22.53.30:610][  0]LogFileCache: Scanning file cache for directory 'D:/vr/Content/' took 0.02s
+[2018.11.30-22.53.30:610][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.30-22.53.30:610][  0]LogCook: Display: Mobile HDR setting 1
+[2018.11.30-22.53.30:610][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.30-22.53.30:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.11.30-22.53.30:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.11.30-22.53.30:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.11.30-22.53.30:610][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.11.30-22.53.34:383][  0]SourceControl: Source control is disabled
+[2018.11.30-22.53.34:410][  0]Cmd: MAP LOAD FILE="../../../../../vr/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.11.30-22.53.34:483][  0]LightingResults: New page: Lighting Build
+[2018.11.30-22.53.34:617][  0]MapCheck: New page: Map Check
+[2018.11.30-22.53.34:617][  0]LightingResults: New page: Lighting Build
+[2018.11.30-22.53.37:945][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.11.30-22.53.38:443][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.11.30-22.53.38:585][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.11.30-22.53.38:589][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2018.11.30-22.53.38:589][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.198
+[2018.11.30-22.53.39:636][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-22.53.39:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-22.53.39:653][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-22.53.39:661][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.11.30-22.53.39:740][  0]LogCollectionManager: Loaded 0 collections in 0.001850 seconds
+[2018.11.30-22.53.39:868][  0]LogFileCache: Scanning file cache for directory 'D:/vr/Saved/Collections/' took 0.01s
+[2018.11.30-22.53.39:868][  0]LogFileCache: Scanning file cache for directory 'D:/vr/Content/Developers/saxhack/Collections/' took 0.01s
+[2018.11.30-22.53.39:868][  0]LogFileCache: Scanning file cache for directory 'D:/vr/Content/Collections/' took 0.01s
+[2018.11.30-22.53.39:868][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.11.30-22.53.39:883][  0]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2709 classes and 653 folders.
+[2018.11.30-22.53.39:944][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-22.53.40:062][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:099][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:101][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:122][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:124][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:136][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:139][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:141][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:151][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:154][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:157][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:159][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:162][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:175][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:177][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:180][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:187][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:189][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:194][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:200][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:207][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:219][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:221][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:224][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:226][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:268][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2018.11.30-22.53.40:981][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-22.53.41:044][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.11.30-22.53.44:446][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.vr
+[2018.11.30-22.53.44:446][  0]LogTemp: CWD: D:\ue4\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.11.30-22.53.44:446][  0]LogTemp: Initial Dir: D:\ue4\UE_4.21
+[2018.11.30-22.53.44:446][  0]LogTemp: Env CWD: D:\ue4\UE_4.21\Engine\Binaries\DotNET\IOS
+[2018.11.30-22.53.44:446][  0]LogTemp: BranchPath = MSI/D/ue4/UE_4.21/Engine/Binaries --- GameBranchPath = MSI/D/ue4/UE_4.21/Engine/Binaries
+[2018.11.30-22.53.44:446][  0]LogTemp: CERTIFICATE-Name:iPhone Developer: Jose Ramos (M45869NLT9),Validity:VALID,StartDate:2018-10-02T18:19:05.0000000Z,EndDate:2019-10-02T18:19:05.0000000Z
+[2018.11.30-22.53.44:446][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.11.30-22.53.44:583][  0]LogTemp:   Looking for a certificate that matches the application identifier '5QXZWJ9JC8.com.underDev.*'
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. Provision entry SN '30BCC536502112F9' matched 1 installed certificate(s)
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. .. Installed certificate 'iPhone Developer: Jose Ramos (M45869NLT9)' is valid (choosing it) (range '10/2/2018 2:19:05 PM' to '10/2/2019 2:19:05 PM')
+[2018.11.30-22.53.44:583][  0]LogTemp: PROVISION-File:AR21.mobileprovision,Name:ARIOS,Validity:NO_MATCH,StartDate:11/2/2018 1:19:51 PM,EndDate:11/2/2019 1:19:51 PM,Type:DEVELOPMENT
+[2018.11.30-22.53.44:583][  0]LogTemp:   Looking for a certificate that matches the application identifier '5QXZWJ9JC8.com.underDev.*'
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. Provision entry SN '30BCC536502112F9' matched 1 installed certificate(s)
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. .. Installed certificate 'iPhone Developer: Jose Ramos (M45869NLT9)' is valid (choosing it) (range '10/2/2018 2:19:05 PM' to '10/2/2019 2:19:05 PM')
+[2018.11.30-22.53.44:583][  0]LogTemp: PROVISION-File:ARIOS (1).mobileprovision,Name:ARIOS,Validity:NO_MATCH,StartDate:11/5/2018 11:27:18 AM,EndDate:11/5/2019 11:27:18 AM,Type:DEVELOPMENT
+[2018.11.30-22.53.44:583][  0]LogTemp:   Looking for a certificate that matches the application identifier '5QXZWJ9JC8.com.underDev.*'
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. Provision entry SN '30BCC536502112F9' matched 1 installed certificate(s)
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. .. Installed certificate 'iPhone Developer: Jose Ramos (M45869NLT9)' is valid (choosing it) (range '10/2/2018 2:19:05 PM' to '10/2/2019 2:19:05 PM')
+[2018.11.30-22.53.44:583][  0]LogTemp: PROVISION-File:ARIOS.mobileprovision,Name:ARIOS,Validity:NO_MATCH,StartDate:11/2/2018 1:19:51 PM,EndDate:11/2/2019 1:19:51 PM,Type:DEVELOPMENT
+[2018.11.30-22.53.44:583][  0]LogTemp:   Looking for a certificate that matches the application identifier '5QXZWJ9JC8.com.underDev.*'
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. Provision entry SN '30BCC536502112F9' matched 1 installed certificate(s)
+[2018.11.30-22.53.44:583][  0]LogTemp:   .. .. Installed certificate 'iPhone Developer: Jose Ramos (M45869NLT9)' is valid (choosing it) (range '10/2/2018 2:19:05 PM' to '10/2/2019 2:19:05 PM')
+[2018.11.30-22.53.44:583][  0]LogTemp: PROVISION-File:piano.mobileprovision,Name:ARIOS,Validity:NO_MATCH,StartDate:11/2/2018 1:19:51 PM,EndDate:11/2/2019 1:19:51 PM,Type:DEVELOPMENT
+[2018.11.30-22.53.44:583][  0]LogTemp: MATCHED-Provision:,File:,Cert:
+[2018.11.30-22.53.44:629][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.11.30-22.53.44:630][  0]LogLoad: (Engine Initialization) Total time: 96.58 seconds
+[2018.11.30-22.53.44:630][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.11.30-22.53.44:955][  0]LogRenderer: Reallocating scene render targets to support 64x64 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-22.53.44:955][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.11.30-22.53.45:015][  0]LogSlate: Took 0.019304 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.11.30-22.53.45:060][  0]LogSlate: Took 0.026774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.11.30-22.53.45:130][  0]LogSlate: Took 0.010933 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.11.30-22.53.45:619][  0]LogRenderer: Reallocating scene render targets to support 688x360 Format 10 NumSamples 1 (Frame:1).
+[2018.11.30-22.53.45:619][  0]LogSlate: Took 0.040228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.11.30-22.53.46:108][  3]LogAssetRegistry: Asset discovery search completed in 63.0374 seconds
+[2018.11.30-22.53.46:110][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.11.30-22.53.46:110][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.11.30-22.54.02:883][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.11.30-22.54.11:178][233]UATHelper: Packaging (Linux): Running AutomationTool...
+[2018.11.30-22.54.11:306][242]UATHelper: Packaging (Linux): Parsing command line: -ScriptsForProject=D:/vr/vr.uproject BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project=D:/vr/vr.uproject -cook -stage -archive -archivedirectory=D:/vr -package -clientconfig=Development -ue4exe=UE4Editor-Cmd.exe -pak -prereqs -nodebuginfo -targetplatform=Linux -utf8output
+[2018.11.30-22.54.12:107][290]UATHelper: Packaging (Linux): Setting up ProjectParams for D:\vr\vr.uproject
+[2018.11.30-22.54.13:462][371]UATHelper: Packaging (Linux): ********** COOK COMMAND STARTED **********
+[2018.11.30-22.54.13:478][372]UATHelper: Packaging (Linux): Running UE4Editor Cook for project D:\vr\vr.uproject
+[2018.11.30-22.54.13:510][374]UATHelper: Packaging (Linux): Commandlet log file is D:\ue4\UE_4.21\Engine\Programs\AutomationTool\Saved\Cook-2018.11.30-17.54.13.txt
+[2018.11.30-22.54.13:528][375]UATHelper: Packaging (Linux): Running: D:\ue4\UE_4.21\Engine\Binaries\Win64\UE4Editor-Cmd.exe D:\vr\vr.uproject -run=Cook  -TargetPlatform=LinuxNoEditor -fileopenlog -unversioned -abslog=D:\ue4\UE_4.21\Engine\Programs\AutomationTool\Saved\Cook-2018.11.30-17.54.13.txt -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2018.11.30-22.54.13:711][386]UATHelper: Packaging (Linux):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2018.11.30-22.54.13:711][386]UATHelper: Packaging (Linux):   LogInit: Display: Running engine for game: vr
+[2018.11.30-22.54.15:271][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-22.54.15:429][485]LogSlate: Took 0.028752 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.11.30-22.54.15:886][510]UATHelper: Packaging (Linux):   LogStreaming: Display: Took  0.123s to configure plugins.
+[2018.11.30-22.54.16:120][524]UATHelper: Packaging (Linux):   LogStreaming: Display: Took  0.001s to delete old logs.
+[2018.11.30-22.54.16:222][530]UATHelper: Packaging (Linux):   LogHAL: Display: Platform has ~ 12 GB [12755001344 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.11.30-22.54.16:818][566]UATHelper: Packaging (Linux):   LogStreaming: Display: Took  0.569s to InitEngineTextLocalization.
+[2018.11.30-22.54.17:793][624]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.11.30-22.54.17:811][625]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.11.30-22.54.17:844][627]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.11.30-22.54.17:860][628]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.11.30-22.54.17:880][629]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.11.30-22.54.17:893][630]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.11.30-22.54.17:910][631]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.11.30-22.54.17:926][632]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.11.30-22.54.17:944][633]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.11.30-22.54.18:046][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:046][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:046][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:046][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:047][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:047][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:047][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:047][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:048][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:048][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:048][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:048][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:049][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:049][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:049][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:049][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:050][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:050][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.11.30-22.54.18:050][639]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.11.30-22.54.18:128][644]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-22.54.18:128][644]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.11.30-22.54.18:160][646]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-22.54.18:161][646]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.11.30-22.54.18:176][647]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.11.30-22.54.18:194][648]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.11.30-22.54.18:210][649]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.11.30-22.54.18:244][651]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.11.30-22.54.18:310][655]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-22.54.18:310][655]UATHelper: Packaging (Linux):   LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.11.30-22.54.18:310][655]UATHelper: Packaging (Linux):   LogTargetPlatformManager: Display: Building Assets For LinuxNoEditor
+[2018.11.30-22.54.18:377][659]UATHelper: Packaging (Linux):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.11.30-22.54.18:993][696]UATHelper: Packaging (Linux):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.11.30-22.54.19:094][702]UATHelper: Packaging (Linux):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/saxhack/AppData/Local/UnrealEngine/4.21/DerivedDataCache/Boot.ddc
+[2018.11.30-22.54.19:110][703]UATHelper: Packaging (Linux):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.11.30-22.54.19:127][704]UATHelper: Packaging (Linux):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Enterprise/DerivedDataCache/Compressed.ddp.
+[2018.11.30-22.54.19:928][752]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:028][758]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:050][759]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:079][761]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:128][764]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:145][765]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:180][767]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:210][769]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:243][771]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:278][773]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:312][775]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.20:361][778]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Widget3DPassThrough, compiling.
+[2018.11.30-22.54.21:180][827]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling.
+[2018.11.30-22.54.21:213][829]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling.
+[2018.11.30-22.54.22:637][913]UATHelper: Packaging (Linux):   LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.11.30-22.54.23:110][941]UATHelper: Packaging (Linux):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.11.30-22.54.23:110][941]UATHelper: Packaging (Linux):   LogCook: Display: Mobile HDR setting 1
+[2018.11.30-22.54.23:110][941]UATHelper: Packaging (Linux):   LogCook: Display: Creating asset registry
+[2018.11.30-22.54.33:495][560]UATHelper: Packaging (Linux):   LogCook: Display: Discovering localized assets
+[2018.11.30-22.54.33:627][568]UATHelper: Packaging (Linux):   LogCook: Display: Cooked content cleared for platform LinuxNoEditor
+[2018.11.30-22.54.33:628][568]UATHelper: Packaging (Linux):   LogCook: Display: Unable to read previous cook inisettings for platform LinuxNoEditor invalidating cook
+[2018.11.30-22.54.33:764][576]UATHelper: Packaging (Linux):   LogCook: Display: Sandbox cleanup took 0.139 seconds for platforms LinuxNoEditor  iterative false
+[2018.11.30-23.12.31:377][ 32]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 0 Packages Remain 255 Total 255
+[2018.11.30-23.12.31:614][ 46]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling.
+[2018.11.30-23.12.31:742][ 54]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultTextMaterialOpaque, compiling.
+[2018.11.30-23.12.32:030][ 71]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.11.30-23.15.04:088][188]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2018.11.30-23.17.47:872][  9]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling.
+[2018.11.30-23.18.13:948][573]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultDeferredDecalMaterial, compiling.
+[2018.11.30-23.18.43:316][334]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultLightFunctionMaterial, compiling.
+[2018.11.30-23.18.46:367][517]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultLightFunctionMaterial, compiling.
+[2018.11.30-23.18.49:119][682]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultPostProcessMaterial, compiling.
+[2018.11.30-23.18.51:372][817]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultPostProcessMaterial, compiling.
+[2018.11.30-23.18.53:587][950]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BaseFlattenMaterial, compiling.
+[2018.11.30-23.18.53:621][952]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BaseFlattenMaterial, compiling.
+[2018.11.30-23.18.53:851][965]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Main, compiling.
+[2018.11.30-23.18.53:881][967]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Main, compiling.
+[2018.11.30-23.18.53:930][970]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Xray, compiling.
+[2018.11.30-23.18.53:978][973]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Xray, compiling.
+[2018.11.30-23.18.54:063][978]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material TransformGizmoMaterial, compiling.
+[2018.11.30-23.18.54:097][980]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material TransformGizmoMaterial, compiling.
+[2018.11.30-23.18.54:130][982]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 50 Packages Remain 254 Total 304
+[2018.11.30-23.18.54:952][ 31]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.11.30-23.18.55:098][ 40]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.11.30-23.18.55:531][ 64]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.11.30-23.18.55:675][ 73]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling.
+[2018.11.30-23.18.55:894][ 85]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling.
+[2018.11.30-23.18.55:921][ 87]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material TranslucentTransformGizmoMaterial, compiling.
+[2018.11.30-23.18.56:404][116]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CineMat, compiling.
+[2018.11.30-23.18.56:474][120]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CineMat, compiling.
+[2018.11.30-23.18.56:640][130]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_SimpleTranslucent, compiling.
+[2018.11.30-23.18.56:722][135]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_SimpleTranslucent, compiling.
+[2018.11.30-23.18.56:858][142]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 100 Packages Remain 253 Total 353
+[2018.11.30-23.18.56:874][143]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling.
+[2018.11.30-23.18.56:906][145]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material EditorBrushMaterial, compiling.
+[2018.11.30-23.18.56:998][150]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling.
+[2018.11.30-23.18.57:055][153]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultSpriteMaterial, compiling.
+[2018.11.30-23.18.57:156][159]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GearVRControllerMaterial, compiling.
+[2018.11.30-23.18.57:205][162]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GearVRControllerMaterial, compiling.
+[2018.11.30-23.18.57:303][168]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material touchController_mat, compiling.
+[2018.11.30-23.18.57:387][173]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material touchController_mat, compiling.
+[2018.11.30-23.18.57:544][182]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PokeAHoleMaterial, compiling.
+[2018.11.30-23.18.57:592][185]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PokeAHoleMaterial, compiling.
+[2018.11.30-23.18.57:695][191]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling.
+[2018.11.30-23.18.57:862][201]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DefaultMaterial, compiling.
+[2018.11.30-23.18.58:075][214]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RevitMaster, compiling.
+[2018.11.30-23.18.58:124][217]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RevitMaster, compiling.
+[2018.11.30-23.18.58:185][220]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material SketchUpMaster, compiling.
+[2018.11.30-23.18.58:230][223]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material SketchUpMaster, compiling.
+[2018.11.30-23.18.58:299][227]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpaqueMaster, compiling.
+[2018.11.30-23.18.58:347][230]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpaqueMaster, compiling.
+[2018.11.30-23.18.58:399][233]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpacityMaster, compiling.
+[2018.11.30-23.18.58:464][237]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpacityMaster, compiling.
+[2018.11.30-23.18.58:514][240]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpacitySimpleMaster, compiling.
+[2018.11.30-23.18.58:581][244]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CE_OpacitySimpleMaster, compiling.
+[2018.11.30-23.18.58:648][248]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Datasmith_Color, compiling.
+[2018.11.30-23.18.58:698][251]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Datasmith_Color, compiling.
+[2018.11.30-23.18.58:797][256]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Datasmith_Material, compiling.
+[2018.11.30-23.18.58:840][259]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material Datasmith_Material, compiling.
+[2018.11.30-23.18.58:911][263]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling.
+[2018.11.30-23.18.58:944][265]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RemoveSurfaceMaterial, compiling.
+[2018.11.30-23.18.58:977][267]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling.
+[2018.11.30-23.18.59:008][269]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DebugMeshMaterial, compiling.
+[2018.11.30-23.18.59:043][271]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling.
+[2018.11.30-23.18.59:111][275]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_InvalidLightmapSettings, compiling.
+[2018.11.30-23.18.59:243][283]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling.
+[2018.11.30-23.18.59:274][285]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GizmoMaterial, compiling.
+[2018.11.30-23.18.59:308][287]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling.
+[2018.11.30-23.18.59:344][289]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PhAT_JointLimitMaterial, compiling.
+[2018.11.30-23.18.59:379][291]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 150 Packages Remain 253 Total 403
+[2018.11.30-23.18.59:396][292]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling.
+[2018.11.30-23.18.59:444][294]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material PreviewShadowIndicatorMaterial, compiling.
+[2018.11.30-23.18.59:737][309]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material VREDMaster, compiling.
+[2018.11.30-23.18.59:804][313]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material VREDMaster, compiling.
+[2018.11.30-23.18.59:911][319]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material VREDMasterTransparent, compiling.
+[2018.11.30-23.18.59:998][324]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material VREDMasterTransparent, compiling.
+[2018.11.30-23.19.00:073][328]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DeltaGenMaster, compiling.
+[2018.11.30-23.19.00:140][332]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DeltaGenMaster, compiling.
+[2018.11.30-23.19.00:194][335]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DeltaGenMasterTransparent, compiling.
+[2018.11.30-23.19.00:274][340]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DeltaGenMasterTransparent, compiling.
+[2018.11.30-23.24.44:248][963]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 252 Total 452
+[2018.11.30-23.24.44:264][964]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling.
+[2018.11.30-23.24.44:296][966]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material DebugEditorMaterial, compiling.
+[2018.11.30-23.24.44:329][968]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling.
+[2018.11.30-23.24.44:362][970]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material ClothMaterial_WF, compiling.
+[2018.11.30-23.24.44:395][972]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling.
+[2018.11.30-23.24.44:446][975]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material ClothMaterial, compiling.
+[2018.11.30-23.24.44:494][978]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling.
+[2018.11.30-23.24.44:648][987]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BoneWeightMaterial, compiling.
+[2018.11.30-23.24.44:798][996]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling.
+[2018.11.30-23.24.44:817][997]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material GeomMaterial, compiling.
+[2018.11.30-23.24.44:851][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 251 Total 451
+[2018.11.30-23.24.44:852][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 250 Total 450
+[2018.11.30-23.24.44:852][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 249 Total 449
+[2018.11.30-23.24.44:853][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 248 Total 448
+[2018.11.30-23.24.44:853][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 247 Total 447
+[2018.11.30-23.24.44:853][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 246 Total 446
+[2018.11.30-23.24.44:854][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 245 Total 445
+[2018.11.30-23.24.44:854][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 244 Total 444
+[2018.11.30-23.24.44:855][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 243 Total 443
+[2018.11.30-23.24.44:855][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 242 Total 442
+[2018.11.30-23.24.44:856][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 241 Total 441
+[2018.11.30-23.24.44:856][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 240 Total 440
+[2018.11.30-23.24.44:856][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 239 Total 439
+[2018.11.30-23.24.44:857][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 238 Total 438
+[2018.11.30-23.24.44:857][999]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 200 Packages Remain 237 Total 437
+[2018.11.30-23.26.14:269][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.11.30-23.26.37:037][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 236 Total 456
+[2018.11.30-23.26.37:037][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 235 Total 455
+[2018.11.30-23.26.37:037][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 234 Total 454
+[2018.11.30-23.26.37:038][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 233 Total 453
+[2018.11.30-23.26.37:038][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 232 Total 452
+[2018.11.30-23.26.37:038][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 231 Total 451
+[2018.11.30-23.26.37:038][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 230 Total 450
+[2018.11.30-23.26.37:039][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 229 Total 449
+[2018.11.30-23.26.37:039][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 228 Total 448
+[2018.11.30-23.26.37:039][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 227 Total 447
+[2018.11.30-23.26.37:040][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 226 Total 446
+[2018.11.30-23.26.37:040][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 225 Total 445
+[2018.11.30-23.26.37:040][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 224 Total 444
+[2018.11.30-23.26.37:041][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 223 Total 443
+[2018.11.30-23.26.37:041][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 222 Total 442
+[2018.11.30-23.26.37:041][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 221 Total 441
+[2018.11.30-23.26.37:041][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 220 Total 440
+[2018.11.30-23.26.37:041][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 219 Total 439
+[2018.11.30-23.26.37:042][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 218 Total 438
+[2018.11.30-23.26.37:042][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 217 Total 437
+[2018.11.30-23.26.37:042][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 216 Total 436
+[2018.11.30-23.26.37:042][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 215 Total 435
+[2018.11.30-23.26.37:042][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 214 Total 434
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 213 Total 433
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 212 Total 432
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 211 Total 431
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 210 Total 430
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 209 Total 429
+[2018.11.30-23.26.37:043][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 208 Total 428
+[2018.11.30-23.26.37:044][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 207 Total 427
+[2018.11.30-23.26.37:044][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 206 Total 426
+[2018.11.30-23.26.37:045][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 205 Total 425
+[2018.11.30-23.26.37:045][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 204 Total 424
+[2018.11.30-23.26.37:045][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 203 Total 423
+[2018.11.30-23.26.37:046][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 202 Total 422
+[2018.11.30-23.26.37:046][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 201 Total 421
+[2018.11.30-23.26.37:046][701]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 200 Total 420
+[2018.11.30-23.26.37:052][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 199 Total 419
+[2018.11.30-23.26.37:053][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 198 Total 418
+[2018.11.30-23.26.37:053][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 197 Total 417
+[2018.11.30-23.26.37:053][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 196 Total 416
+[2018.11.30-23.26.37:054][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 195 Total 415
+[2018.11.30-23.26.37:054][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 194 Total 414
+[2018.11.30-23.26.37:054][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 193 Total 413
+[2018.11.30-23.26.37:055][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 192 Total 412
+[2018.11.30-23.26.37:055][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 191 Total 411
+[2018.11.30-23.26.37:055][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 190 Total 410
+[2018.11.30-23.26.37:055][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 189 Total 409
+[2018.11.30-23.26.37:055][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 188 Total 408
+[2018.11.30-23.26.37:056][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 187 Total 407
+[2018.11.30-23.26.37:056][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 186 Total 406
+[2018.11.30-23.26.37:056][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 185 Total 405
+[2018.11.30-23.26.37:056][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 184 Total 404
+[2018.11.30-23.26.37:057][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 183 Total 403
+[2018.11.30-23.26.37:057][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 182 Total 402
+[2018.11.30-23.26.37:057][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 181 Total 401
+[2018.11.30-23.26.37:057][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 180 Total 400
+[2018.11.30-23.26.37:058][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 179 Total 399
+[2018.11.30-23.26.37:058][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 178 Total 398
+[2018.11.30-23.26.37:058][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 177 Total 397
+[2018.11.30-23.26.37:059][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 176 Total 396
+[2018.11.30-23.26.37:059][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 175 Total 395
+[2018.11.30-23.26.37:059][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 174 Total 394
+[2018.11.30-23.26.37:060][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 173 Total 393
+[2018.11.30-23.26.37:060][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 172 Total 392
+[2018.11.30-23.26.37:060][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 171 Total 391
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 170 Total 390
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 169 Total 389
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 168 Total 388
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 167 Total 387
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 166 Total 386
+[2018.11.30-23.26.37:061][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 165 Total 385
+[2018.11.30-23.26.37:062][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 164 Total 384
+[2018.11.30-23.26.37:062][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 163 Total 383
+[2018.11.30-23.26.37:062][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 162 Total 382
+[2018.11.30-23.26.37:062][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 161 Total 381
+[2018.11.30-23.26.37:062][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 160 Total 380
+[2018.11.30-23.26.37:063][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 159 Total 379
+[2018.11.30-23.26.37:063][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 158 Total 378
+[2018.11.30-23.26.37:063][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 157 Total 377
+[2018.11.30-23.26.37:063][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 156 Total 376
+[2018.11.30-23.26.37:063][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 155 Total 375
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 154 Total 374
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 153 Total 373
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 152 Total 372
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 151 Total 371
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 150 Total 370
+[2018.11.30-23.26.37:064][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 149 Total 369
+[2018.11.30-23.26.37:065][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 148 Total 368
+[2018.11.30-23.26.37:065][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 147 Total 367
+[2018.11.30-23.26.37:065][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 146 Total 366
+[2018.11.30-23.26.37:065][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 145 Total 365
+[2018.11.30-23.26.37:065][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 144 Total 364
+[2018.11.30-23.26.37:066][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 143 Total 363
+[2018.11.30-23.26.37:066][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 142 Total 362
+[2018.11.30-23.26.37:066][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 141 Total 361
+[2018.11.30-23.26.37:066][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 140 Total 360
+[2018.11.30-23.26.37:067][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 139 Total 359
+[2018.11.30-23.26.37:067][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 138 Total 358
+[2018.11.30-23.26.37:067][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 137 Total 357
+[2018.11.30-23.26.37:067][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 136 Total 356
+[2018.11.30-23.26.37:067][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 135 Total 355
+[2018.11.30-23.26.37:068][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 134 Total 354
+[2018.11.30-23.26.37:068][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 133 Total 353
+[2018.11.30-23.26.37:068][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 132 Total 352
+[2018.11.30-23.26.37:068][702]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 131 Total 351
+[2018.11.30-23.26.37:072][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 130 Total 350
+[2018.11.30-23.26.37:072][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 129 Total 349
+[2018.11.30-23.26.37:073][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 128 Total 348
+[2018.11.30-23.26.37:073][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 127 Total 347
+[2018.11.30-23.26.37:073][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 126 Total 346
+[2018.11.30-23.26.37:073][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 125 Total 345
+[2018.11.30-23.26.37:074][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 124 Total 344
+[2018.11.30-23.26.37:074][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 123 Total 343
+[2018.11.30-23.26.37:074][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 122 Total 342
+[2018.11.30-23.26.37:074][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 121 Total 341
+[2018.11.30-23.26.37:075][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 120 Total 340
+[2018.11.30-23.26.37:075][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 119 Total 339
+[2018.11.30-23.26.37:075][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 118 Total 338
+[2018.11.30-23.26.37:075][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 117 Total 337
+[2018.11.30-23.26.37:076][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 116 Total 336
+[2018.11.30-23.26.37:076][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 115 Total 335
+[2018.11.30-23.26.37:076][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 114 Total 334
+[2018.11.30-23.26.37:076][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 113 Total 333
+[2018.11.30-23.26.37:076][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 112 Total 332
+[2018.11.30-23.26.37:077][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 111 Total 331
+[2018.11.30-23.26.37:077][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 110 Total 330
+[2018.11.30-23.26.37:077][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 109 Total 329
+[2018.11.30-23.26.37:077][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 108 Total 328
+[2018.11.30-23.26.37:077][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 107 Total 327
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 106 Total 326
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 105 Total 325
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 104 Total 324
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 103 Total 323
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 102 Total 322
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 101 Total 321
+[2018.11.30-23.26.37:078][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 100 Total 320
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 99 Total 319
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 98 Total 318
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 97 Total 317
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 96 Total 316
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 95 Total 315
+[2018.11.30-23.26.37:079][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 94 Total 314
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 93 Total 313
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 92 Total 312
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 91 Total 311
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 90 Total 310
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 89 Total 309
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 88 Total 308
+[2018.11.30-23.26.37:080][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 87 Total 307
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 86 Total 306
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 85 Total 305
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 84 Total 304
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 83 Total 303
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 82 Total 302
+[2018.11.30-23.26.37:081][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 81 Total 301
+[2018.11.30-23.26.37:082][703]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 220 Packages Remain 80 Total 300
+[2018.11.30-23.26.37:174][709]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 230 Packages Remain 80 Total 310
+[2018.11.30-23.26.37:178][709]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 233 Packages Remain 79 Total 312
+[2018.11.30-23.26.37:291][716]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 238 Packages Remain 78 Total 316
+[2018.11.30-23.26.37:761][744]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling.
+[2018.11.30-23.26.37:792][746]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material RampMaterial, compiling.
+[2018.11.30-23.26.37:861][750]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling.
+[2018.11.30-23.26.37:910][753]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling.
+[2018.11.30-23.26.37:959][756]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling.
+[2018.11.30-23.26.37:976][757]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material M_Sky_Panning_Clouds2, compiling.
+[2018.11.30-23.26.38:028][760]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling.
+[2018.11.30-23.26.38:112][765]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling.
+[2018.11.30-23.27.16:625][ 75]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 261 Packages Remain 77 Total 338
+[2018.11.30-23.27.16:641][ 76]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 264 Packages Remain 76 Total 340
+[2018.11.30-23.27.16:658][ 77]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material WireMaterial, compiling.
+[2018.11.30-23.27.16:674][ 78]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material WireMaterial, compiling.
+[2018.11.30-23.27.22:360][419]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 266 Packages Remain 75 Total 341
+[2018.11.30-23.27.22:360][419]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 266 Packages Remain 74 Total 340
+[2018.11.30-23.27.22:376][420]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material HoveredFaceMaterial, compiling.
+[2018.11.30-23.27.22:408][422]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material HoveredFaceMaterial, compiling.
+[2018.11.30-23.27.22:427][423]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material OverlayPointMaterial, compiling.
+[2018.11.30-23.27.22:443][424]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material OverlayPointMaterial, compiling.
+[2018.11.30-23.27.22:476][426]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material OverlayLineMaterial, compiling.
+[2018.11.30-23.27.22:510][428]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material OverlayLineMaterial, compiling.
+[2018.11.30-23.27.22:526][429]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material HoveredGeometryMaterial, compiling.
+[2018.11.30-23.27.22:543][430]UATHelper: Packaging (Linux):   LogMaterial: Display: Missing cached shader map for material HoveredGeometryMaterial, compiling.
+[2018.11.30-23.27.39:994][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 73 Total 344
+[2018.11.30-23.27.39:995][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 72 Total 343
+[2018.11.30-23.27.39:995][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 71 Total 342
+[2018.11.30-23.27.39:995][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 70 Total 341
+[2018.11.30-23.27.39:995][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 69 Total 340
+[2018.11.30-23.27.39:995][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 68 Total 339
+[2018.11.30-23.27.39:996][477]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 271 Packages Remain 67 Total 338
+[2018.11.30-23.27.40:010][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 66 Total 338
+[2018.11.30-23.27.40:011][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 65 Total 337
+[2018.11.30-23.27.40:011][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 64 Total 336
+[2018.11.30-23.27.40:011][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 63 Total 335
+[2018.11.30-23.27.40:012][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 62 Total 334
+[2018.11.30-23.27.40:012][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 61 Total 333
+[2018.11.30-23.27.40:012][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 60 Total 332
+[2018.11.30-23.27.40:012][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 59 Total 331
+[2018.11.30-23.27.40:012][478]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 272 Packages Remain 58 Total 330
+[2018.11.30-23.27.40:029][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 57 Total 330
+[2018.11.30-23.27.40:030][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 56 Total 329
+[2018.11.30-23.27.40:030][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 55 Total 328
+[2018.11.30-23.27.40:030][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 54 Total 327
+[2018.11.30-23.27.40:031][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 53 Total 326
+[2018.11.30-23.27.40:032][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 52 Total 325
+[2018.11.30-23.27.40:032][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 51 Total 324
+[2018.11.30-23.27.40:032][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 50 Total 323
+[2018.11.30-23.27.40:033][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 49 Total 322
+[2018.11.30-23.27.40:033][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 48 Total 321
+[2018.11.30-23.27.40:034][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 47 Total 320
+[2018.11.30-23.27.40:034][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 46 Total 319
+[2018.11.30-23.27.40:034][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 45 Total 318
+[2018.11.30-23.27.40:034][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 44 Total 317
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 43 Total 316
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 42 Total 315
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 41 Total 314
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 40 Total 313
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 39 Total 312
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 38 Total 311
+[2018.11.30-23.27.40:035][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 37 Total 310
+[2018.11.30-23.27.40:036][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 36 Total 309
+[2018.11.30-23.27.40:036][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 35 Total 308
+[2018.11.30-23.27.40:036][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 34 Total 307
+[2018.11.30-23.27.40:036][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 33 Total 306
+[2018.11.30-23.27.40:036][479]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 273 Packages Remain 32 Total 305
+[2018.11.30-23.27.40:093][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 31 Total 305
+[2018.11.30-23.27.40:093][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 30 Total 304
+[2018.11.30-23.27.40:093][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 29 Total 303
+[2018.11.30-23.27.40:093][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 28 Total 302
+[2018.11.30-23.27.40:094][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 27 Total 301
+[2018.11.30-23.27.40:094][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 26 Total 300
+[2018.11.30-23.27.40:095][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 25 Total 299
+[2018.11.30-23.27.40:095][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 24 Total 298
+[2018.11.30-23.27.40:096][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 23 Total 297
+[2018.11.30-23.27.40:096][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 22 Total 296
+[2018.11.30-23.27.40:096][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 21 Total 295
+[2018.11.30-23.27.40:097][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 20 Total 294
+[2018.11.30-23.27.40:097][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 19 Total 293
+[2018.11.30-23.27.40:097][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 18 Total 292
+[2018.11.30-23.27.40:098][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 17 Total 291
+[2018.11.30-23.27.40:098][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 16 Total 290
+[2018.11.30-23.27.40:098][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 15 Total 289
+[2018.11.30-23.27.40:098][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 14 Total 288
+[2018.11.30-23.27.40:099][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 13 Total 287
+[2018.11.30-23.27.40:099][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 12 Total 286
+[2018.11.30-23.27.40:099][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 11 Total 285
+[2018.11.30-23.27.40:099][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 10 Total 284
+[2018.11.30-23.27.40:099][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 9 Total 283
+[2018.11.30-23.27.40:100][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 8 Total 282
+[2018.11.30-23.27.40:100][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 7 Total 281
+[2018.11.30-23.27.40:100][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 6 Total 280
+[2018.11.30-23.27.40:100][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 5 Total 279
+[2018.11.30-23.27.40:100][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 4 Total 278
+[2018.11.30-23.27.40:101][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 3 Total 277
+[2018.11.30-23.27.40:101][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 2 Total 276
+[2018.11.30-23.27.40:101][483]UATHelper: Packaging (Linux):   LogCook: Display: Cooked packages 274 Packages Remain 1 Total 275
+[2018.11.30-23.27.40:143][486]UATHelper: Packaging (Linux):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2018.11.30-23.27.40:143][486]UATHelper: Packaging (Linux):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2018.11.30-23.27.40:143][486]UATHelper: Packaging (Linux):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2018.11.30-23.27.40:244][492]UATHelper: Packaging (Linux):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2018.11.30-23.27.40:261][493]UATHelper: Packaging (Linux):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 268, size is 111.05kb
+[2018.11.30-23.27.40:277][494]UATHelper: Packaging (Linux):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2018.11.30-23.27.40:277][494]UATHelper: Packaging (Linux):   LogCook: Display: Cook by the book total time in tick 908.696582s total time 1997.168945
+[2018.11.30-23.27.40:278][494]UATHelper: Packaging (Linux):   LogCook: Display: Peak Used virtual 1050MB Peak Used physical 779MB
+[2018.11.30-23.27.40:278][494]UATHelper: Packaging (Linux):   LogCook: Display: Hierarchy Timer Information:
+[2018.11.30-23.27.40:278][494]UATHelper: Packaging (Linux):   LogCook: Display:   Root: 0.000s (0)
+[2018.11.30-23.27.40:279][494]UATHelper: Packaging (Linux):   LogCook: Display:     StartCookByTheBookTime: 1088.272s (1)
+[2018.11.30-23.27.40:279][494]UATHelper: Packaging (Linux):   LogCook: Display:       GenerateAssetRegistryTime: 10.320s (1)
+[2018.11.30-23.27.40:279][494]UATHelper: Packaging (Linux):   LogCook: Display:       CleanSandboxTime: 0.139s (1)
+[2018.11.30-23.27.40:280][494]UATHelper: Packaging (Linux):   LogCook: Display:         ProcessingAccessedStrings: 0.033s (1)
+[2018.11.30-23.27.40:280][494]UATHelper: Packaging (Linux):   LogCook: Display:       CollectFilesToCook: 1.321s (1)
+[2018.11.30-23.27.40:281][494]UATHelper: Packaging (Linux):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2018.11.30-23.27.40:281][494]UATHelper: Packaging (Linux):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2018.11.30-23.27.40:282][494]UATHelper: Packaging (Linux):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2018.11.30-23.27.40:282][494]UATHelper: Packaging (Linux):   LogCook: Display:     TickCookOnTheSide: 908.574s (39)
+[2018.11.30-23.27.40:282][494]UATHelper: Packaging (Linux):   LogCook: Display:       LoadPackage: 1.698s (34)
+[2018.11.30-23.27.40:283][494]UATHelper: Packaging (Linux):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.809s (39)
+[2018.11.30-23.27.40:283][494]UATHelper: Packaging (Linux):   LogCook: Display:       PostLoadPackageFixup: 0.000s (39)
+[2018.11.30-23.27.40:284][494]UATHelper: Packaging (Linux):   LogCook: Display:       SavingPackages: 906.051s (15)
+[2018.11.30-23.27.40:284][494]UATHelper: Packaging (Linux):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.095s (371)
+[2018.11.30-23.27.40:284][494]UATHelper: Packaging (Linux):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 386.723s (363)
+[2018.11.30-23.27.40:285][494]UATHelper: Packaging (Linux):   LogCook: Display:         SaveCookedPackage: 519.063s (274)
+[2018.11.30-23.27.40:285][494]UATHelper: Packaging (Linux):   LogCook: Display:           LoadPackage: 0.001s (274)
+[2018.11.30-23.27.40:285][494]UATHelper: Packaging (Linux):   LogCook: Display:           GEditorSavePackage: 519.036s (274)
+[2018.11.30-23.27.40:286][494]UATHelper: Packaging (Linux):   LogCook: Display:             ConvertingBlueprints: 0.060s (274)
+[2018.11.30-23.27.40:286][494]UATHelper: Packaging (Linux):   LogCook: Display:             VerifyCanCookPackage: 0.002s (268)
+[2018.11.30-23.27.40:286][494]UATHelper: Packaging (Linux):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.003s (274)
+[2018.11.30-23.27.40:286][494]UATHelper: Packaging (Linux):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (5)
+[2018.11.30-23.27.40:287][494]UATHelper: Packaging (Linux):   LogCook: Display:     GeneratingBlueprintAssets: 0.053s (1)
+[2018.11.30-23.27.40:287][494]UATHelper: Packaging (Linux):   LogCook: Display:     SavingCurrentIniSettings: 0.054s (1)
+[2018.11.30-23.27.40:287][494]UATHelper: Packaging (Linux):   LogCook: Display:       ProcessingAccessedStrings: 0.017s (1)
+[2018.11.30-23.27.40:287][494]UATHelper: Packaging (Linux):   LogCook: Display:     SavingAssetRegistry: 0.066s (1)
+[2018.11.30-23.27.40:288][494]UATHelper: Packaging (Linux):   LogCook: Display:       BuildChunkManifest: 0.026s (1)
+[2018.11.30-23.27.40:288][494]UATHelper: Packaging (Linux):   LogCook: Display:       SaveManifests: 0.001s (1)
+[2018.11.30-23.27.40:288][494]UATHelper: Packaging (Linux):   LogCook: Display:       SaveRealAssetRegistry: 0.030s (1)
+[2018.11.30-23.27.40:288][494]UATHelper: Packaging (Linux):   LogCook: Display:       WriteCookerOpenOrder: 0.009s (1)
+[2018.11.30-23.27.40:288][494]UATHelper: Packaging (Linux):   LogSavePackage: Display: Took 0.005335s to verify the EDL loading graph.
+[2018.11.30-23.27.40:294][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Misc Cook Stats
+[2018.11.30-23.27.40:294][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: ===============
+[2018.11.30-23.27.40:294][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: ShaderCompiler
+[2018.11.30-23.27.40:294][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     BlockingTimeSec=1954.609859
+[2018.11.30-23.27.40:295][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     AsyncCompileTimeSec=9012.521487
+[2018.11.30-23.27.40:295][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=6.928449
+[2018.11.30-23.27.40:296][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=7917
+[2018.11.30-23.27.40:296][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=1071.587807
+[2018.11.30-23.27.40:296][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: GlobalShader.Misc
+[2018.11.30-23.27.40:297][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     ShadersCompiled=3203
+[2018.11.30-23.27.40:298][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2018.11.30-23.27.40:298][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     ShadersCompiled=4624
+[2018.11.30-23.27.40:298][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: MaterialShader.Misc
+[2018.11.30-23.27.40:298][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     ShadersCompiled=90
+[2018.11.30-23.27.40:299][495]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.Load
+[2018.11.30-23.27.40:311][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     NumPackagesLoaded=161
+[2018.11.30-23.27.40:312][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     LoadPackageTimeSec=3.645270
+[2018.11.30-23.27.40:312][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.Save
+[2018.11.30-23.27.40:312][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     NumPackagesSaved=274
+[2018.11.30-23.27.40:313][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     SavePackageTimeSec=518.910139
+[2018.11.30-23.27.40:313][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=517.024908
+[2018.11.30-23.27.40:314][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.177463
+[2018.11.30-23.27.40:314][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.002739
+[2018.11.30-23.27.40:315][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.004324
+[2018.11.30-23.27.40:316][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000420
+[2018.11.30-23.27.40:316][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2018.11.30-23.27.40:316][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.261653
+[2018.11.30-23.27.40:316][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.282437
+[2018.11.30-23.27.40:316][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.127287
+[2018.11.30-23.27.40:317][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.274867
+[2018.11.30-23.27.40:317][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     MBWritten=112.595901
+[2018.11.30-23.27.40:317][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2018.11.30-23.27.40:318][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2018.11.30-23.27.40:318][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2018.11.30-23.27.40:318][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Package.DiffTotal
+[2018.11.30-23.27.40:318][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2018.11.30-23.27.40:319][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2018.11.30-23.27.40:319][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2018.11.30-23.27.40:319][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2018.11.30-23.27.40:319][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:
+[2018.11.30-23.27.40:320][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Cook Profile
+[2018.11.30-23.27.40:320][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: ============
+[2018.11.30-23.27.40:320][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0.CookWallTimeSec=2006.679418
+[2018.11.30-23.27.40:320][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=9.475488
+[2018.11.30-23.27.40:320][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=1997.195671
+[2018.11.30-23.27.40:321][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1088.272094
+[2018.11.30-23.27.40:321][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000079
+[2018.11.30-23.27.40:321][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=908.886212
+[2018.11.30-23.27.40:322][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=1.699012
+[2018.11.30-23.27.40:322][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=519.063027
+[2018.11.30-23.27.40:322][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2018.11.30-23.27.40:323][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=387.626106
+[2018.11.30-23.27.40:323][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.019335
+[2018.11.30-23.27.40:323][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2018.11.30-23.27.40:323][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000896
+[2018.11.30-23.27.40:324][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.011830
+[2018.11.30-23.27.40:324][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000054
+[2018.11.30-23.27.40:324][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000005
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: DDC Summary Stats
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: =================
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalGetHits  =       430
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalGets     =       803
+[2018.11.30-23.27.40:325][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalGetHitPct=  0.535492
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: LocalGetHitPct=  0.105853
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: OtherGetHitPct=  0.429639
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: GetMissPct    =  0.464508
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalPutHits  =       373
+[2018.11.30-23.27.40:326][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalPuts     =       373
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: TotalPutHitPct=  1.000000
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: PutMissPct    =  0.000000
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display:
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: DDC Resource Stats
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: =======================================================================================================
+[2018.11.30-23.27.40:327][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2018.11.30-23.27.40:328][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2018.11.30-23.27.40:328][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: MaterialShader                                  1.41                   1.41           116         32.03
+[2018.11.30-23.27.40:328][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.77                   0.77             0          2.01
+[2018.11.30-23.27.40:328][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Texture (Streaming)                             0.56                   0.00             0         29.88
+[2018.11.30-23.27.40:329][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: GlobalShader                                    0.18                   0.18             2          0.00
+[2018.11.30-23.27.40:329][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: StaticMesh                                      0.04                   0.04             0          3.56
+[2018.11.30-23.27.40:329][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.06
+[2018.11.30-23.27.40:329][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.04
+[2018.11.30-23.27.40:330][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         36.08
+[2018.11.30-23.27.40:330][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          0.03
+[2018.11.30-23.27.40:331][496]UATHelper: Packaging (Linux):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2018.11.30-23.27.40:335][497]UATHelper: Packaging (Linux):   LogInit: Display:
+[2018.11.30-23.27.40:336][497]UATHelper: Packaging (Linux):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2018.11.30-23.27.40:336][497]UATHelper: Packaging (Linux):   LogInit: Display:
+[2018.11.30-23.27.40:336][497]UATHelper: Packaging (Linux):   
+[2018.11.30-23.27.40:336][497]UATHelper: Packaging (Linux):   Execution of commandlet took:  1997.23 seconds
+[2018.11.30-23.27.42:970][655]UATHelper: Packaging (Linux): Took 2009.4498142s to run UE4Editor-Cmd.exe, ExitCode=0
+[2018.11.30-23.27.42:986][656]UATHelper: Packaging (Linux): ********** COOK COMMAND COMPLETED **********
+[2018.11.30-23.27.43:021][658]UATHelper: Packaging (Linux): ********** STAGE COMMAND STARTED **********
+[2018.11.30-23.27.43:151][666]UATHelper: Packaging (Linux): Creating Staging Manifest...
+[2018.11.30-23.27.43:151][666]UATHelper: Packaging (Linux): Staging all 1 build products
+[2018.11.30-23.27.43:151][666]UATHelper: Packaging (Linux):  Product 0: UE4Game
+[2018.11.30-23.27.43:167][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseEditor.ini
+[2018.11.30-23.27.43:168][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseEditorKeyBindings.ini
+[2018.11.30-23.27.43:168][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseEditorLayout.ini
+[2018.11.30-23.27.43:168][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2018.11.30-23.27.43:169][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseEditorSettings.ini
+[2018.11.30-23.27.43:169][667]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\BaseLightmass.ini
+[2018.11.30-23.27.43:184][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Linux\LinuxEditorGameAgnostic.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\Category.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\Editor.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\EditorTutorials.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\Engine.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\Keywords.ini
+[2018.11.30-23.27.43:185][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\PortableObjectExport.ini
+[2018.11.30-23.27.43:186][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\PortableObjectImport.ini
+[2018.11.30-23.27.43:186][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\PropertyNames.ini
+[2018.11.30-23.27.43:186][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\RepairData.ini
+[2018.11.30-23.27.43:186][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\ResourceFileGen.ini
+[2018.11.30-23.27.43:186][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\ToolTips.ini
+[2018.11.30-23.27.43:187][668]UATHelper: Packaging (Linux): Excluding config file D:\ue4\UE_4.21\Engine\Config\Localization\WordCount.ini
+[2018.11.30-23.27.43:187][668]UATHelper: Packaging (Linux): Excluding config file D:\vr\Config\DefaultEditor.ini
+[2018.11.30-23.27.43:187][668]UATHelper: Packaging (Linux): Excluding config file D:\vr\Config\DefaultEditorPerProjectUserSettings.ini
+[2018.11.30-23.27.43:301][675]UATHelper: Packaging (Linux): Cleaning Stage Directory: D:\vr\Saved\StagedBuilds\LinuxNoEditor
+[2018.11.30-23.27.43:302][675]UATHelper: Packaging (Linux): Creating pak using staging manifest.
+[2018.11.30-23.27.43:635][695]UATHelper: Packaging (Linux): Running: D:\ue4\UE_4.21\Engine\Binaries\Win64\UnrealPak.exe D:\vr\vr.uproject -batch=D:\ue4\UE_4.21\Engine\Programs\AutomationTool\Saved\UnrealPak-Commands-2018.11.30-18.27.43.txt
+[2018.11.30-23.27.45:901][831]UATHelper: Packaging (Linux):   LogPakFile: Display: Using command line for crypto configuration
+[2018.11.30-23.27.45:901][831]UATHelper: Packaging (Linux):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2018.11.30-23.27.45:902][831]UATHelper: Packaging (Linux):   LogPakFile: Display: Loading response file C:\Users\saxhack\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+ue4+UE_4.21\PakList_vr-LinuxNoEditor.txt
+[2018.11.30-23.27.45:934][833]UATHelper: Packaging (Linux):   LogPakFile: Display: Added 1407 entries to add to pak file.
+[2018.11.30-23.27.45:935][833]UATHelper: Packaging (Linux):   LogPakFile: Display: Loading pak order file D:\vr\Build\LinuxNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2018.11.30-23.27.45:935][833]UATHelper: Packaging (Linux):   LogPakFile: Display: Finished loading pak order file D:\vr\Build\LinuxNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2018.11.30-23.27.45:935][833]UATHelper: Packaging (Linux):   LogPakFile: Display: Collecting files to add to pak file...
+[2018.11.30-23.27.45:952][834]UATHelper: Packaging (Linux):   LogPakFile: Display: Collected 1407 files in 0.01s.
+[2018.11.30-23.27.48:052][960]UATHelper: Packaging (Linux):   LogPakFile: Display: Added 1407 files, 156930724 bytes total, time 2.11s.
+[2018.11.30-23.27.48:052][960]UATHelper: Packaging (Linux):   LogPakFile: Display: Encryption - DISABLED
+[2018.11.30-23.27.48:068][961]UATHelper: Packaging (Linux):   LogPakFile: Display: Unreal pak executed in 2.181152 seconds
+[2018.11.30-23.27.48:135][965]UATHelper: Packaging (Linux): Took 4.5013509s to run UnrealPak.exe, ExitCode=0
+[2018.11.30-23.27.48:168][967]UATHelper: Packaging (Linux): Copying NonUFSFiles to staging directory: D:\vr\Saved\StagedBuilds\LinuxNoEditor
+[2018.11.30-23.27.50:819][126]UATHelper: Packaging (Linux): Copying DebugFiles to staging directory: D:\vr\Saved\StagedBuilds\LinuxNoEditor
+[2018.11.30-23.27.50:819][126]UATHelper: Packaging (Linux): ********** STAGE COMMAND COMPLETED **********
+[2018.11.30-23.27.50:819][126]UATHelper: Packaging (Linux): ********** PACKAGE COMMAND STARTED **********
+[2018.11.30-23.27.50:819][126]UATHelper: Packaging (Linux): ********** PACKAGE COMMAND COMPLETED **********
+[2018.11.30-23.27.50:820][126]UATHelper: Packaging (Linux): ********** ARCHIVE COMMAND STARTED **********
+[2018.11.30-23.27.50:820][126]UATHelper: Packaging (Linux): Archiving to D:/vr
+[2018.11.30-23.27.51:102][143]UATHelper: Packaging (Linux): ********** ARCHIVE COMMAND COMPLETED **********
+[2018.11.30-23.27.51:102][143]UATHelper: Packaging (Linux): BUILD SUCCESSFUL
+[2018.11.30-23.27.51:102][143]UATHelper: Packaging (Linux): AutomationTool exiting with ExitCode=0 (Success)
+[2018.11.30-23.28.56:181][378]LogHttp: Warning: 0000021EA0D01A80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2018.11.30-23.28.56:182][378]LogHttp: Warning: 0000021EA0D01A80: libcurl info message cache 0 (Connection 14 seems to be dead!)
+[2018.11.30-23.28.56:182][378]LogHttp: Warning: 0000021EA0D01A80: libcurl info message cache 1 (Closing connection 14)
+[2018.11.30-23.28.56:182][378]LogHttp: Warning: 0000021EA0D01A80: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.11.30-23.28.56:183][378]LogHttp: Warning: 0000021EA0D01A80: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2018.11.30-23.28.56:183][378]LogHttp: Warning: 0000021EA0D01A80: libcurl info message cache 4 (Closing connection 15)
+[2018.11.30-23.28.56:183][378]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEF0047-4844-1602-12ED-699F156233E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=aacf7b794c470812dbfd9fa99d97110d%7C44b88e67d8514d62810b806db9bfb356%7C903d5562-5a5b-46ed-a1e0-a6e72ec5bcca&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2018.12.01-00.15.38:906][186]LogSlate: Window 'Output Log' being destroyed
+[2018.12.01-00.15.38:912][186]LogSlate: Window 'Output Log' being destroyed
+[2018.12.01-00.15.40:203][189]LogSlate: Window 'vr - Unreal Editor' being destroyed
+[2018.12.01-00.15.40:205][189]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.12.01-00.15.40:568][190]Cmd: QUIT_EDITOR
+[2018.12.01-00.15.40:687][190]LogExit: Preparing to exit.
+[2018.12.01-00.15.41:852][190]LogExit: Editor shut down
+[2018.12.01-00.15.41:853][190]LogExit: Transaction tracking system shut down
+[2018.12.01-00.15.42:159][190]LogExit: Object subsystem successfully closed.
+[2018.12.01-00.15.42:186][190]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.12.01-00.15.42:193][190]LogD3D11RHI: Shutdown
+[2018.12.01-00.15.42:193][190]LogD3D11RHI: CleanupD3DDevice
+[2018.12.01-00.15.42:196][190]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.12.01-00.15.42:316][190]LogModuleManager: Shutting down and abandoning module UATHelper (648)
+[2018.12.01-00.15.42:316][190]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (646)
+[2018.12.01-00.15.42:316][190]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (644)
+[2018.12.01-00.15.42:316][190]LogModuleManager: Shutting down and abandoning module SceneOutliner (642)
+[2018.12.01-00.15.42:317][190]LogModuleManager: Shutting down and abandoning module AddContentDialog (640)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module WidgetCarousel (639)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module EditorWidgets (636)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module CollectionManager (634)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module StatsViewer (632)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module FoliageEdit (630)
+[2018.12.01-00.15.42:320][190]LogModuleManager: Shutting down and abandoning module LandscapeEditor (628)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module MeshPaintMode (626)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (624)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module ActorPickerMode (622)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module GeometryMode (620)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module TextureAlignMode (618)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module BspMode (616)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (614)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (612)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module AutomationWorker (610)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module DatasmithFBXImporter (608)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module DatasmithDeltaGenImporter (606)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module DatasmithVREDImporter (604)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (602)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (600)
+[2018.12.01-00.15.42:366][190]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (598)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module PlacementMode (597)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module MaterialEditor (596)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2018.12.01-00.15.42:367][190]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (560)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (558)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module CharacterAI (556)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module SmartSnapping (554)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module SessionServices (552)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module ViewportSnapping (550)
+[2018.12.01-00.15.42:368][190]LogModuleManager: Shutting down and abandoning module ViewportInteraction (548)
+[2018.12.01-00.15.42:389][190]LogModuleManager: Shutting down and abandoning module ClothPainter (546)
+[2018.12.01-00.15.42:396][190]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (545)
+[2018.12.01-00.15.42:407][190]LogModuleManager: Shutting down and abandoning module LogVisualizer (542)
+[2018.12.01-00.15.42:408][190]LogModuleManager: Shutting down and abandoning module IntroTutorials (540)
+[2018.12.01-00.15.42:408][190]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (539)
+[2018.12.01-00.15.42:417][190]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (536)
+[2018.12.01-00.15.42:418][190]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (534)
+[2018.12.01-00.15.42:418][190]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (532)
+[2018.12.01-00.15.42:418][190]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (530)
+[2018.12.01-00.15.42:418][190]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (529)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (526)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (524)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (522)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (520)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (518)
+[2018.12.01-00.15.42:968][190]LogModuleManager: Shutting down and abandoning module InputBindingEditor (516)
+[2018.12.01-00.15.43:009][190]LogModuleManager: Shutting down and abandoning module MergeActors (514)
+[2018.12.01-00.15.43:009][190]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (512)
+[2018.12.01-00.15.43:009][190]LogModuleManager: Shutting down and abandoning module LocalizationService (511)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module HardwareTargeting (508)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (506)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module UndoHistory (504)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module XmlParser (502)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module Blutility (500)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (498)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (497)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (494)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module SettingsEditor (492)
+[2018.12.01-00.15.43:010][190]LogModuleManager: Shutting down and abandoning module ProjectLauncher (490)
+[2018.12.01-00.15.43:019][190]LogModuleManager: Shutting down and abandoning module SessionFrontend (488)
+[2018.12.01-00.15.43:019][190]LogModuleManager: Shutting down and abandoning module ProfilerClient (486)
+[2018.12.01-00.15.43:025][190]LogModuleManager: Shutting down and abandoning module DeviceManager (484)
+[2018.12.01-00.15.43:025][190]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (483)
+[2018.12.01-00.15.43:091][190]LogModuleManager: Shutting down and abandoning module AutomationController (480)
+[2018.12.01-00.15.43:091][190]LogModuleManager: Shutting down and abandoning module AutomationWindow (478)
+[2018.12.01-00.15.43:098][190]LogModuleManager: Shutting down and abandoning module Layers (476)
+[2018.12.01-00.15.43:114][190]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (474)
+[2018.12.01-00.15.43:114][190]LogModuleManager: Shutting down and abandoning module DetailCustomizations (472)
+[2018.12.01-00.15.43:114][190]LogModuleManager: Shutting down and abandoning module PackagesDialog (470)
+[2018.12.01-00.15.43:125][190]LogModuleManager: Shutting down and abandoning module Persona (468)
+[2018.12.01-00.15.43:125][190]LogModuleManager: Shutting down and abandoning module AnimGraph (467)
+[2018.12.01-00.15.43:125][190]LogModuleManager: Shutting down and abandoning module Kismet (464)
+[2018.12.01-00.15.43:136][190]LogModuleManager: Shutting down and abandoning module GraphEditor (462)
+[2018.12.01-00.15.43:152][190]LogModuleManager: Shutting down and abandoning module ClassViewer (460)
+[2018.12.01-00.15.43:152][190]LogModuleManager: Shutting down and abandoning module Toolbox (458)
+[2018.12.01-00.15.43:152][190]LogModuleManager: Shutting down and abandoning module ModuleUI (456)
+[2018.12.01-00.15.43:160][190]LogModuleManager: Shutting down and abandoning module MovieSceneTools (454)
+[2018.12.01-00.15.43:160][190]LogModuleManager: Shutting down and abandoning module OutputLog (452)
+[2018.12.01-00.15.43:160][190]LogModuleManager: Shutting down and abandoning module GammaUI (450)
+[2018.12.01-00.15.43:167][190]LogModuleManager: Shutting down and abandoning module Documentation (448)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (446)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module MovieScene (444)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (442)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module LauncherPlatform (440)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module AnalyticsET (438)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module PortalServices (436)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module PortalRpc (434)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module MessagingRpc (432)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module AIModule (430)
+[2018.12.01-00.15.43:168][190]LogModuleManager: Shutting down and abandoning module GameplayDebugger (429)
+[2018.12.01-00.15.43:169][190]LogModuleManager: Shutting down and abandoning module AITestSuite (427)
+[2018.12.01-00.15.43:169][190]LogModuleManager: Shutting down and abandoning module NavigationSystem (425)
+[2018.12.01-00.15.43:169][190]LogModuleManager: Shutting down and abandoning module DesktopPlatform (422)
+[2018.12.01-00.15.43:169][190]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (420)
+[2018.12.01-00.15.43:174][190]LogModuleManager: Shutting down and abandoning module ProfilerService (418)
+[2018.12.01-00.15.43:294][190]LogModuleManager: Shutting down and abandoning module TaskGraph (416)
+[2018.12.01-00.15.43:294][190]LogModuleManager: Shutting down and abandoning module DatasmithCADImporter (414)
+[2018.12.01-00.15.43:294][190]LogModuleManager: Shutting down and abandoning module VariantManager (412)
+[2018.12.01-00.15.43:294][190]LogModuleManager: Shutting down and abandoning module StaticMeshEditorExtension (410)
+[2018.12.01-00.15.43:294][190]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (409)
+[2018.12.01-00.15.43:306][190]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (408)
+[2018.12.01-00.15.43:306][190]LogModuleManager: Shutting down and abandoning module MeshProcessingLibrary (405)
+[2018.12.01-00.15.43:306][190]LogModuleManager: Shutting down and abandoning module MDLImporter (402)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module DatasmithImporter (400)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module SteamVRController (398)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (396)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (394)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module OculusInput (392)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (390)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module EditableMesh (388)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (386)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module CableComponent (384)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module AudioCapture (382)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (380)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module AndroidPermission (378)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (376)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (374)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module MediaCompositing (372)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module LinearTimecode (370)
+[2018.12.01-00.15.43:319][190]LogModuleManager: Shutting down and abandoning module ImgMedia (368)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module HTML5Networking (366)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (364)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (362)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module BackChannel (360)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module AppleVision (358)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (356)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module AppleImageUtils (354)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module AlembicImporter (352)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module AlembicLibrary (351)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module GeometryCache (350)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (349)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module VariantManagerContent (344)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (340)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module PluginBrowser (338)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (336)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module PolygonModeling (334)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module MeshEditor (332)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (330)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.12.01-00.15.43:333][190]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (308)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (306)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (304)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (302)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (300)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module Paper2DEditor (298)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module MeshPaint (297)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (294)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (292)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module PhysXVehicles (290)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module OculusEditor (288)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.12.01-00.15.43:334][190]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.12.01-00.15.43:435][190]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.12.01-00.15.43:536][190]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.12.01-00.15.43:538][190]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.12.01-00.15.43:538][190]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.12.01-00.15.43:538][190]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.12.01-00.15.43:538][190]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.12.01-00.15.43:538][190]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (244)
+[2018.12.01-00.15.43:541][190]LogModuleManager: Shutting down and abandoning module WmfMedia (242)
+[2018.12.01-00.15.43:548][190]LogModuleManager: Shutting down and abandoning module Media (241)
+[2018.12.01-00.15.43:554][190]LogModuleManager: Shutting down and abandoning module PacketHandler (238)
+[2018.12.01-00.15.43:554][190]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (236)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (234)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module MediaAssets (232)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module Overlay (230)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module OverlayEditor (229)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module VREditor (226)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module StringTableEditor (224)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (222)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (220)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module FunctionalTesting (218)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (216)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (215)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module UMG (212)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module UMGEditor (211)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module Sequencer (210)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module MessageLog (207)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module SlateReflector (202)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module Slate (200)
+[2018.12.01-00.15.43:555][190]LogModuleManager: Shutting down and abandoning module EditorStyle (198)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module Core (186)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module LevelSequence (184)
+[2018.12.01-00.15.43:558][190]LogModuleManager: Shutting down and abandoning module KismetCompiler (182)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module MeshUtilities (180)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (179)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (178)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (177)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (175)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (173)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (171)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module MaterialBaking (167)
+[2018.12.01-00.15.43:559][190]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2018.12.01-00.15.43:560][190]LogModuleManager: Shutting down and abandoning module DerivedDataCache (160)
+[2018.12.01-00.15.43:599][190]LogDerivedDataCache: Shutdown
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module XGEController (158)
+[2018.12.01-00.15.43:599][190]LogXGEController: Cleaning working directory: C:/Users/saxhack/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module TargetPlatform (156)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (155)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (153)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (151)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (149)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (147)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (145)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (143)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (141)
+[2018.12.01-00.15.43:599][190]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (139)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (137)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module ImageWrapper (136)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (133)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (131)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (129)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (127)
+[2018.12.01-00.15.43:600][190]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (125)
+[2018.12.01-00.15.43:610][190]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2018.12.01-00.15.43:611][190]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (121)
+[2018.12.01-00.15.43:611][190]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (119)
+[2018.12.01-00.15.43:611][190]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (117)
+[2018.12.01-00.15.43:611][190]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (115)
+[2018.12.01-00.15.43:616][190]LogModuleManager: Shutting down and abandoning module Messaging (113)
+[2018.12.01-00.15.43:616][190]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (111)
+[2018.12.01-00.15.43:621][190]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (109)
+[2018.12.01-00.15.43:621][190]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (107)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (105)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (103)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (101)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (99)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (97)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (95)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (93)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (91)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (89)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module InputCore (86)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module Settings (84)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module PhysXCooking (82)
+[2018.12.01-00.15.43:659][190]LogModuleManager: Shutting down and abandoning module SteamVR (80)
+[2018.12.01-00.15.43:660][190]LogHMD: Freeing OpenVRDLLHandle.
+[2018.12.01-00.15.43:660][190]LogModuleManager: Shutting down and abandoning module OculusHMD (78)
+[2018.12.01-00.15.43:660][190]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (76)
+[2018.12.01-00.15.43:660][190]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (74)
+[2018.12.01-00.15.43:660][190]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (72)
+[2018.12.01-00.15.43:660][190]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (68)
+[2018.12.01-00.15.43:661][190]LogModuleManager: Shutting down and abandoning module XMPP (63)
+[2018.12.01-00.15.43:661][190]LogModuleManager: Shutting down and abandoning module WebSockets (62)
+[2018.12.01-00.15.43:678][190]LogModuleManager: Shutting down and abandoning module HTTP (59)
+[2018.12.01-00.15.43:678][190]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.12.01-00.15.43:678][190]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8CEF0047-4844-1602-12ED-699F156233E6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.21.0-4541578%2B%2B%2BUE4%2BRelease-4.21&UserID=aacf7b794c470812dbfd9fa99d97110d%7C44b88e67d8514d62810b806db9bfb356%7C903d5562-5a5b-46ed-a1e0-a6e72ec5bcca&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.12.01-00.15.43:687][190]LogModuleManager: Shutting down and abandoning module SSL (58)
+[2018.12.01-00.15.43:688][190]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (54)
+[2018.12.01-00.15.43:688][190]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (52)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (50)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (48)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (46)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (44)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeapController (42)
+[2018.12.01-00.15.43:689][190]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module MagicLeap (40)
+[2018.12.01-00.15.43:689][190]LogModuleManager: Shutting down and abandoning module DatasmithContent (38)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.12.01-00.15.43:690][190]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.12.01-00.15.43:696][190]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.12.01-00.15.43:707][190]LogExit: Exiting.
+[2018.12.01-00.15.43:736][190]Log file closed, 11/30/18 19:15:43
