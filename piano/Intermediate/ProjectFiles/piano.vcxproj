@@ -1,0 +1,1057 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|x64">
+      <Configuration>Invalid</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|x64">
+      <Configuration>Invalid</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|x64">
+      <Configuration>Invalid</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|x64">
+      <Configuration>Invalid</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|x64">
+      <Configuration>Invalid</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Invalid|Win32">
+      <Configuration>Invalid</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugGame|Win32">
+      <Configuration>DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugGame|x64">
+      <Configuration>DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugGame_Editor|Win32">
+      <Configuration>DebugGame_Editor</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="DebugGame_Editor|x64">
+      <Configuration>DebugGame_Editor</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_DebugGame|Win32">
+      <Configuration>IOS_DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_DebugGame|x64">
+      <Configuration>IOS_DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_DebugGame|Win32">
+      <Configuration>Android_DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_DebugGame|x64">
+      <Configuration>Android_DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_DebugGame|Win32">
+      <Configuration>HTML5_DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_DebugGame|x64">
+      <Configuration>HTML5_DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_DebugGame|Win32">
+      <Configuration>Linux_DebugGame</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_DebugGame|x64">
+      <Configuration>Linux_DebugGame</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_DebugGame_Editor|Win32">
+      <Configuration>Linux_DebugGame_Editor</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_DebugGame_Editor|x64">
+      <Configuration>Linux_DebugGame_Editor</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Development|Win32">
+      <Configuration>Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Development|x64">
+      <Configuration>Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Development_Editor|Win32">
+      <Configuration>Development_Editor</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Development_Editor|x64">
+      <Configuration>Development_Editor</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_Development|Win32">
+      <Configuration>IOS_Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_Development|x64">
+      <Configuration>IOS_Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Development|Win32">
+      <Configuration>Android_Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Development|x64">
+      <Configuration>Android_Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_Development|Win32">
+      <Configuration>HTML5_Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_Development|x64">
+      <Configuration>HTML5_Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Development|Win32">
+      <Configuration>Linux_Development</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Development|x64">
+      <Configuration>Linux_Development</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Development_Editor|Win32">
+      <Configuration>Linux_Development_Editor</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Development_Editor|x64">
+      <Configuration>Linux_Development_Editor</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Shipping|Win32">
+      <Configuration>Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Shipping|x64">
+      <Configuration>Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_Shipping|Win32">
+      <Configuration>IOS_Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="IOS_Shipping|x64">
+      <Configuration>IOS_Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Shipping|Win32">
+      <Configuration>Android_Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Android_Shipping|x64">
+      <Configuration>Android_Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_Shipping|Win32">
+      <Configuration>HTML5_Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="HTML5_Shipping|x64">
+      <Configuration>HTML5_Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Shipping|Win32">
+      <Configuration>Linux_Shipping</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Linux_Shipping|x64">
+      <Configuration>Linux_Shipping</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{92C8D486-58FF-40C4-954F-B4D34B0030F4}</ProjectGuid>
+    <Keyword>MakeFileProj</Keyword>
+    <RootNamespace>piano</RootNamespace>
+    <PlatformToolset>v141</PlatformToolset>
+    <MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
+    <TargetRuntime>Native</TargetRuntime>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectCapability Include="MLProject" />
+    <PropertyPageSchema Include="$(LOCALAPPDATA)\Microsoft\VisualStudio\MagicLeap\debugger.xaml" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame_Editor|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame_Editor|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development_Editor|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development_Editor|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Shipping|Win32'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Shipping|x64'" Label="Configuration">
+    <ConfigurationType>Makefile</ConfigurationType>
+    <PlatformToolset>v141</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings" />
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|x64'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Invalid|Win32'">
+    <NMakeBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>echo The selected platform/configuration is not valid for this target.</NMakeCleanCommandLine>
+    <NMakeOutput>Invalid Output</NMakeOutput>
+    <OutDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</OutDir>
+    <IntDir>D:\ue4\UE_4.21\Engine\Intermediate\Build\Unused\</IntDir>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win32 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win32 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win32 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win32\piano-Win32-DebugGame.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame|x64'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win64\piano-Win64-DebugGame.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='DebugGame_Editor|x64'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat pianoEditor Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat pianoEditor Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat pianoEditor Win64 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\ue4\UE_4.21\Engine\Binaries\Win64\UE4Editor-Win64-DebugGame.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IOS_DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano IOS DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano IOS DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano IOS DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\IOS\piano-IOS-DebugGame</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Android DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Android DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Android DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\piano-Android-DebugGame.so</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano HTML5 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano HTML5 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano HTML5 DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\HTML5\piano-HTML5-DebugGame.js</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Linux\piano-Linux-DebugGame</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame_Editor|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_DebugGame_Editor|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat pianoEditor Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat pianoEditor Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat pianoEditor Linux DebugGame "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\ue4\UE_4.21\Engine\Binaries\Linux\UE4Editor-Linux-DebugGame</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win32 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win32 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win32 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win32\piano.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development|x64'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win64\piano.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Development_Editor|x64'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat pianoEditor Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat pianoEditor Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat pianoEditor Win64 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\ue4\UE_4.21\Engine\Binaries\Win64\UE4Editor.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano IOS Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano IOS Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano IOS Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\IOS\piano</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Android Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Android Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Android Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\piano.so</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano HTML5 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano HTML5 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano HTML5 Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\HTML5\piano.js</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Linux\piano</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development_Editor|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Development_Editor|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat pianoEditor Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat pianoEditor Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat pianoEditor Linux Development "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>D:\ue4\UE_4.21\Engine\Binaries\Linux\UE4Editor</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win32 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win32 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win32 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win32\piano-Win32-Shipping.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|x64'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Shipping|x64'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Win64 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Win64 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Win64 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Win64\piano-Win64-Shipping.exe</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='IOS_Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano IOS Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano IOS Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano IOS Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\IOS\piano-IOS-Shipping</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Android_Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Android Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Android Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Android Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Android\piano-Android-Shipping.so</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='HTML5_Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano HTML5 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano HTML5 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano HTML5 Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\HTML5\piano-HTML5-Shipping.js</NMakeOutput>
+  </PropertyGroup>
+  <ImportGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Shipping|Win32'" Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Linux_Shipping|Win32'">
+    <IncludePath />
+    <ReferencePath />
+    <LibraryPath />
+    <LibraryWPath />
+    <SourcePath />
+    <ExcludePath />
+    <OutDir>$(ProjectDir)..\Build\Unused\</OutDir>
+    <IntDir>$(ProjectDir)..\Build\Unused\</IntDir>
+    <NMakeBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Build.bat piano Linux Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeBuildCommandLine>
+    <NMakeReBuildCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Rebuild.bat piano Linux Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeReBuildCommandLine>
+    <NMakeCleanCommandLine>D:\ue4\UE_4.21\Engine\Build\BatchFiles\Clean.bat piano Linux Shipping "$(SolutionDir)$(ProjectName).uproject" -WaitMutex -FromMsBuild</NMakeCleanCommandLine>
+    <NMakeOutput>..\..\Binaries\Linux\piano-Linux-Shipping</NMakeOutput>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="..\..\piano.uproject"/>
+    <None Include="..\..\Source\piano.Target.cs"/>
+    <None Include="..\..\Source\pianoEditor.Target.cs"/>
+    <None Include="..\..\Config\DefaultEditor.ini"/>
+    <None Include="..\..\Config\DefaultEngine.ini"/>
+    <None Include="..\..\Config\DefaultGame.ini"/>
+    <ClCompile Include="..\..\Source\piano\MyClass.cpp"/>
+    <ClInclude Include="..\..\Source\piano\MyClass.h"/>
+    <None Include="..\..\Source\piano\piano.Build.cs"/>
+    <ClCompile Include="..\..\Source\piano\piano.cpp"/>
+    <ClInclude Include="..\..\Source\piano\piano.h"/>
+  </ItemGroup>
+  <PropertyGroup>
+    <SourcePath>D:\ue4\UE_4.21\Engine\Source\Developer\TreeMap;D:\ue4\UE_4.21\Engine\Source\Developer\AITestSuite\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AITestSuite\Private\Actions;D:\ue4\UE_4.21\Engine\Source\Developer\AITestSuite\Private\BehaviorTree;D:\ue4\UE_4.21\Engine\Source\Developer\AITestSuite\Private\MockAI;D:\ue4\UE_4.21\Engine\Source\Developer\AITestSuite\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Developer\AllDesktopTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Android\AndroidDeviceDetection\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Android\AndroidPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Android\AndroidTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Android\Android_ETC1aTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Apple\MetalShaderFormat\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AssetTools\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AssetTools\Private\AssetTypeActions;D:\ue4\UE_4.21\Engine\Source\Developer\AudioFormatADPCM\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AudioFormatOgg\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AudioFormatOpus\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AudioSettingsEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationController\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationDriver\Private;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationDriver\Private\Locators;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationDriver\Private\Specs;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationWindow\Private;D:\ue4\UE_4.21\Engine\Source\Developer\BlankModule\Private;D:\ue4\UE_4.21\Engine\Source\Developer\BlueprintCompilerCppBackend\Private;D:\ue4\UE_4.21\Engine\Source\Developer\BlueprintNativeCodeGen\Private;D:\ue4\UE_4.21\Engine\Source\Developer\CollectionManager\Private;D:\ue4\UE_4.21\Engine\Source\Developer\CollisionAnalyzer\Private;D:\ue4\UE_4.21\Engine\Source\Developer\CrashDebugHelper\Private;D:\ue4\UE_4.21\Engine\Source\Developer\CrashDebugHelper\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Developer\CrashDebugHelper\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Developer\CrashDebugHelper\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Developer\CrashDebugHelper\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Developer\CrashReportHelper\Private;D:\ue4\UE_4.21\Engine\Source\Developer\CrashReportHelper\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Developer\CrashReportHelper\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Developer\CrashReportHelper\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Developer\DerivedDataCache\Private;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopPlatform\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopPlatform\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopPlatform\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopWidgets\Private;D:\ue4\UE_4.21\Engine\Source\Developer\DesktopWidgets\Private\Widgets\Input;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets\Apps;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets\Browser;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets\Details;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets\Processes;D:\ue4\UE_4.21\Engine\Source\Developer\DeviceManager\Private\Widgets\Toolbar;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Private;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Developer\ExternalImagePicker\Private;D:\ue4\UE_4.21\Engine\Source\Developer\FunctionalTesting\Private;D:\ue4\UE_4.21\Engine\Source\Developer\FunctionalTesting\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Developer\GameplayDebugger\Private;D:\ue4\UE_4.21\Engine\Source\Developer\GameplayDebugger\Private\Editor;D:\ue4\UE_4.21\Engine\Source\Developer\GammaUI\Private;D:\ue4\UE_4.21\Engine\Source\Developer\GraphColor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\HierarchicalLODUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Developer\HotReload\Private;D:\ue4\UE_4.21\Engine\Source\Developer\HTML5\HTML5PlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\HTML5\HTML5TargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\IOS\IOSPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\IOS\IOSTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\IOS\IOSTargetPlatform\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Developer\IOS\IOSTargetPlatform\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Developer\IOS\TVOSTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\LauncherServices\Private;D:\ue4\UE_4.21\Engine\Source\Developer\LauncherServices\Private\Launcher;D:\ue4\UE_4.21\Engine\Source\Developer\LauncherServices\Private\Profiles;D:\ue4\UE_4.21\Engine\Source\Developer\Linux\LinuxClientTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Linux\LinuxNoEditorTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Linux\LinuxPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Linux\LinuxServerTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Linux\LinuxTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Localization\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Localization\Private\Serialization;D:\ue4\UE_4.21\Engine\Source\Developer\LocalizationService\Private;D:\ue4\UE_4.21\Engine\Source\Developer\LogVisualizer\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Lumin\LuminPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Lumin\LuminTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Mac\MacClientTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Mac\MacNoEditorTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Mac\MacPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Mac\MacServerTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Mac\MacTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MaterialBaking\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MaterialUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Merge\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshBoneReduction\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshBuilder\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshDescriptionOperations\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshMergeUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshReductionInterface\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshSimplifier\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MeshUtilitiesCommon\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MessageLog\Private;D:\ue4\UE_4.21\Engine\Source\Developer\MessageLog\Private\Model;D:\ue4\UE_4.21\Engine\Source\Developer\MessageLog\Private\Presentation;D:\ue4\UE_4.21\Engine\Source\Developer\MessageLog\Private\UserInterface;D:\ue4\UE_4.21\Engine\Source\Developer\ModuleUI\Private;D:\ue4\UE_4.21\Engine\Source\Developer\OutputLog\Private;D:\ue4\UE_4.21\Engine\Source\Developer\PakFileUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Profiler\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Profiler\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\ProfilerClient\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ProfilerMessages\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ProfilerService\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Archive;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Build;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Cook;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Deploy;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Launch;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Package;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Preview;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Profile;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Progress;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Project;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Settings;D:\ue4\UE_4.21\Engine\Source\Developer\ProjectLauncher\Private\Widgets\Shared;D:\ue4\UE_4.21\Engine\Source\Developer\RawMesh\Private;D:\ue4\UE_4.21\Engine\Source\Developer\RealtimeProfiler\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ScreenShotComparison\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ScreenShotComparison\Private\Models;D:\ue4\UE_4.21\Engine\Source\Developer\ScreenShotComparison\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\ScreenShotComparisonTools\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SessionFrontend\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SessionFrontend\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\SessionFrontend\Private\Widgets\Browser;D:\ue4\UE_4.21\Engine\Source\Developer\SessionFrontend\Private\Widgets\Console;D:\ue4\UE_4.21\Engine\Source\Developer\Settings\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SettingsEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SettingsEditor\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\ShaderCompilerCommon\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ShaderFormatOpenGL\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ShaderFormatVectorVM\Private;D:\ue4\UE_4.21\Engine\Source\Developer\ShaderPreprocessor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SharedSettingsWidgets\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SimplygonMeshReduction\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SimplygonSwarm\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SlackIntegrations\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SlateFileDialogs\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SlateReflector\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SlateReflector\Private\Models;D:\ue4\UE_4.21\Engine\Source\Developer\SlateReflector\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Developer\SourceCodeAccess\Private;D:\ue4\UE_4.21\Engine\Source\Developer\SourceControl\Private;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\ios;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\OpenGL;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\Linux\OpenGL;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\Mac\OpenGL;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\Windows\D3D;D:\ue4\UE_4.21\Engine\Source\Developer\StandaloneRenderer\Private\Windows\OpenGL;D:\ue4\UE_4.21\Engine\Source\Developer\TargetDeviceServices\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TargetDeviceServices\Private\Proxies;D:\ue4\UE_4.21\Engine\Source\Developer\TargetDeviceServices\Private\Services;D:\ue4\UE_4.21\Engine\Source\Developer\TargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TaskGraph\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureCompressor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatAndroid\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatASTC\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatDXT\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatIntelISPCTexComp\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatPVR\Private;D:\ue4\UE_4.21\Engine\Source\Developer\TextureFormatUncompressed\Private;D:\ue4\UE_4.21\Engine\Source\Developer\VulkanShaderFormat\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\ShaderFormatD3D\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\WindowsClientTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\WindowsNoEditorTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\WindowsPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\WindowsServerTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\Windows\WindowsTargetPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Developer\XGEController\Private;D:\ue4\UE_4.21\Engine\Source\Editor\UATHelper;D:\ue4\UE_4.21\Engine\Source\Editor\ViewportInteraction;D:\ue4\UE_4.21\Engine\Source\Editor\VREditor;D:\ue4\UE_4.21\Engine\Source\Editor\ActorPickerMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AddContentDialog\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AddContentDialog\Private\ViewModels;D:\ue4\UE_4.21\Engine\Source\Editor\AddContentDialog\Private\ContentSourceProviders\FeaturePack;D:\ue4\UE_4.21\Engine\Source\Editor\AdvancedPreviewScene\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AIGraph\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationBlueprintEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationNodes;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationPins;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationBlueprintEditor\Private\AnimationStateNodes;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AnimationModifiers\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AnimGraph\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AnimGraph\Private\EditModes;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Private\AssetTypeActions;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Private\Factories;D:\ue4\UE_4.21\Engine\Source\Editor\BehaviorTreeEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\BehaviorTreeEditor\Private\DetailCustomizations;D:\ue4\UE_4.21\Engine\Source\Editor\BlueprintGraph\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Blutility\Private;D:\ue4\UE_4.21\Engine\Source\Editor\BspMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Cascade\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Cascade\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\ClassViewer\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ClothingSystemEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ClothingSystemEditorInterface\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ClothPainter\Private;D:\ue4\UE_4.21\Engine\Source\Editor\CommonMenuExtensions\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ComponentVisualizers\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ConfigEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ConfigEditor\Private\PropertyVisualization;D:\ue4\UE_4.21\Engine\Source\Editor\ContentBrowser\Private;D:\ue4\UE_4.21\Engine\Source\Editor\CurveAssetEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\CurveEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\CurveEditor\Private\DragOperations;D:\ue4\UE_4.21\Engine\Source\Editor\CurveTableEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\DataTableEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\DetailCustomizations\Private;D:\ue4\UE_4.21\Engine\Source\Editor\DeviceProfileEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\DeviceProfileEditor\Private\DetailsPanel;D:\ue4\UE_4.21\Engine\Source\Editor\DeviceProfileServices\Private;D:\ue4\UE_4.21\Engine\Source\Editor\DistCurveEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Documentation\Private;D:\ue4\UE_4.21\Engine\Source\Editor\EditorSettingsViewer\Private;D:\ue4\UE_4.21\Engine\Source\Editor\EditorStyle\Private;D:\ue4\UE_4.21\Engine\Source\Editor\EditorWidgets\Private;D:\ue4\UE_4.21\Engine\Source\Editor\EnvironmentQueryEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\EnvironmentQueryEditor\Private\DetailCustomizations;D:\ue4\UE_4.21\Engine\Source\Editor\FoliageEdit\Private;D:\ue4\UE_4.21\Engine\Source\Editor\FontEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\GameplayTasksEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\GameProjectGeneration\Private;D:\ue4\UE_4.21\Engine\Source\Editor\GameProjectGeneration\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\GeometryMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private\KismetNodes;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private\KismetPins;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private\MaterialNodes;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private\MaterialPins;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Private\NiagaraPins;D:\ue4\UE_4.21\Engine\Source\Editor\HardwareTargeting\Private;D:\ue4\UE_4.21\Engine\Source\Editor\HierarchicalLODOutliner\Private;D:\ue4\UE_4.21\Engine\Source\Editor\InputBindingEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\InputBindingEditor\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Editor\InternationalizationSettings\Private;D:\ue4\UE_4.21\Engine\Source\Editor\IntroTutorials\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Private\Debugging;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Private\Nodes;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Private\WorkflowOrientedApp;D:\ue4\UE_4.21\Engine\Source\Editor\KismetCompiler\Private;D:\ue4\UE_4.21\Engine\Source\Editor\KismetWidgets\Private;D:\ue4\UE_4.21\Engine\Source\Editor\LandscapeEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\LandscapeEditor\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\Layers\Private;D:\ue4\UE_4.21\Engine\Source\Editor\LevelEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\LocalizationCommandletExecution\Private;D:\ue4\UE_4.21\Engine\Source\Editor\LocalizationDashboard\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MainFrame\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MainFrame\Private\Frame;D:\ue4\UE_4.21\Engine\Source\Editor\MainFrame\Private\Menus;D:\ue4\UE_4.21\Engine\Source\Editor\MaterialEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MaterialEditor\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\Matinee\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MergeActors\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MergeActors\Private\MergeProxyUtils;D:\ue4\UE_4.21\Engine\Source\Editor\MergeActors\Private\MeshInstancingTool;D:\ue4\UE_4.21\Engine\Source\Editor\MergeActors\Private\MeshMergingTool;D:\ue4\UE_4.21\Engine\Source\Editor\MergeActors\Private\MeshProxyTool;D:\ue4\UE_4.21\Engine\Source\Editor\MeshPaint\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MeshPaintMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneCaptureDialog\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\Channels;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\CurveKeyEditors;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\FCPXML;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\Sections;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\TrackEditors;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\TrackEditorThumbnail;D:\ue4\UE_4.21\Engine\Source\Editor\MovieSceneTools\Private\TrackEditors\PropertyTrackEditors;D:\ue4\UE_4.21\Engine\Source\Editor\NewLevelDialog\Private;D:\ue4\UE_4.21\Engine\Source\Editor\OverlayEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\OverlayEditor\Private\Factories;D:\ue4\UE_4.21\Engine\Source\Editor\PackagesDialog\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Persona\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Persona\Public;D:\ue4\UE_4.21\Engine\Source\Editor\Persona\Private\Customization;D:\ue4\UE_4.21\Engine\Source\Editor\Persona\Private\EditModes;D:\ue4\UE_4.21\Engine\Source\Editor\Persona\Private\Shared;D:\ue4\UE_4.21\Engine\Source\Editor\PhysicsAssetEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PhysicsAssetEditor\Private\PhysicsAssetGraph;D:\ue4\UE_4.21\Engine\Source\Editor\PIEPreviewDeviceProfileSelector\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PIEPreviewDeviceSpecification\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PinnedCommandList\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PixelInspector\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PlacementMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PListEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PluginWarden\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ProjectSettingsViewer\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ProjectTargetPlatformEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ProjectTargetPlatformEditor\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private\Presentation\PropertyEditor;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private\Presentation\PropertyTable;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyDetails;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyEditor;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Private\UserInterface\PropertyTable;D:\ue4\UE_4.21\Engine\Source\Editor\SceneDepthPickerMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SceneOutliner\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Sequencer\Private;D:\ue4\UE_4.21\Engine\Source\Editor\Sequencer\Private\DisplayNodes;D:\ue4\UE_4.21\Engine\Source\Editor\Sequencer\Private\Tools;D:\ue4\UE_4.21\Engine\Source\Editor\SequenceRecorder\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SequenceRecorder\Private\Sections;D:\ue4\UE_4.21\Engine\Source\Editor\SequenceRecorderSections\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SequencerWidgets\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SkeletalMeshEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SkeletonEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SourceControlWindows\Private;D:\ue4\UE_4.21\Engine\Source\Editor\StaticMeshEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\StatsViewer\Private;D:\ue4\UE_4.21\Engine\Source\Editor\StatsViewer\Private\StatsEntries;D:\ue4\UE_4.21\Engine\Source\Editor\StatsViewer\Private\StatsPages;D:\ue4\UE_4.21\Engine\Source\Editor\StringTableEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\SwarmInterface\Private;D:\ue4\UE_4.21\Engine\Source\Editor\TextureAlignMode\Private;D:\ue4\UE_4.21\Engine\Source\Editor\TextureEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\TextureEditor\Private\Customizations;D:\ue4\UE_4.21\Engine\Source\Editor\TextureEditor\Private\Models;D:\ue4\UE_4.21\Engine\Source\Editor\TextureEditor\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Editor\TimeManagementEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\TranslationEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Animation;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\BlueprintModes;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Customizations;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Designer;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Details;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\DragDrop;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Extensions;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Hierarchy;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Nodes;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Palette;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Settings;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\TabFactory;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Templates;D:\ue4\UE_4.21\Engine\Source\Editor\UMGEditor\Private\Utility;D:\ue4\UE_4.21\Engine\Source\Editor\UndoHistory\Private;D:\ue4\UE_4.21\Engine\Source\Editor\UndoHistory\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Analytics;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Animation;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\AutoReimport;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Bookmarks;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Commandlets;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Dialogs;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\DragAndDrop;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Editor;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Factories;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Fbx;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Features;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Kismet2;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Layers;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Lightmass;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\MaterialEditor;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Settings;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\StaticLightingSystem;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\ThumbnailRendering;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Private\Toolkits;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEdMessages\Private;D:\ue4\UE_4.21\Engine\Source\Editor\ViewportInteraction\Gizmo;D:\ue4\UE_4.21\Engine\Source\Editor\ViewportSnapping\Private;D:\ue4\UE_4.21\Engine\Source\Editor\VirtualTexturingEditor\Private;D:\ue4\UE_4.21\Engine\Source\Editor\VREditor\Teleporter;D:\ue4\UE_4.21\Engine\Source\Editor\VREditor\UI;D:\ue4\UE_4.21\Engine\Source\Editor\WorkspaceMenuStructure\Private;D:\ue4\UE_4.21\Engine\Source\Editor\WorldBrowser\Private;D:\ue4\UE_4.21\Engine\Source\Editor\WorldBrowser\Private\StreamingLevels;D:\ue4\UE_4.21\Engine\Source\Editor\WorldBrowser\Private\Tiles;D:\ue4\UE_4.21\Engine\Source\Programs\UnrealHeaderTool\Private;D:\ue4\UE_4.21\Engine\Source\Programs\UnrealHeaderTool\Private\Specifiers;D:\ue4\UE_4.21\Engine\Source\Runtime\Advertising\Advertising\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Advertising\Android\AndroidAdvertising\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Advertising\IOS\IOSAdvertising\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\Actions;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\Blueprint;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\DataProviders;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\EnvironmentQuery;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\GameplayDebugger;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\HotSpots;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\Navigation;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\Perception;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\Tasks;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree\Blackboard;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree\Composites;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree\Decorators;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree\Services;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\BehaviorTree\Tasks;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\EnvironmentQuery\Contexts;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\EnvironmentQuery\Generators;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\EnvironmentQuery\Items;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Private\EnvironmentQuery\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\ALAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Analytics\Analytics\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Analytics\AnalyticsET\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Analytics\AnalyticsSwrve\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Analytics\AnalyticsVisualEditing\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Analytics\QoSReporter\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Android\AndroidAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Android\AndroidLocalNotification\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Android\AndroidRuntimeSettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Android\AudioMixerAndroid\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimationCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Private\AnimNodes;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Private\BoneControllers;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Private\RBF;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Public\AnimNodes;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimGraphRuntime\Public\BoneControllers;D:\ue4\UE_4.21\Engine\Source\Runtime\AppFramework\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AppFramework\Private\Framework\Testing;D:\ue4\UE_4.21\Engine\Source\Runtime\AppFramework\Private\Widgets\Colors;D:\ue4\UE_4.21\Engine\Source\Runtime\AppFramework\Private\Widgets\Testing;D:\ue4\UE_4.21\Engine\Source\Runtime\AppFramework\Private\Widgets\Workflow;D:\ue4\UE_4.21\Engine\Source\Runtime\Apple\AudioMixerAudioUnit\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Apple\MetalRHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\AssetRegistry\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Private\Components;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Private\DSP;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Private\Effects;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioPlatformConfiguration\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AugmentedReality\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AutomationMessages\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AutomationWorker\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\AVIWriter\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\BlueprintRuntime\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\BuildSettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Cbor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Cbor\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\CEF3Utils\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\CEF3Utils\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\CinematicCamera\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ClientPilot\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntime\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntime\Private\Assets;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntime\Private\Utils;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntimeInterface\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\CookedIterativeFile\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Apple;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Async;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Containers;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Delegates;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Features;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\FramePro;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\HAL;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Hash;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Logging;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Math;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Modules;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\ProfilingDebugging;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Serialization;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Stats;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\UObject;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Containers\Algo;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\HAL\Allocators;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\ProfilingDebugging\Apple;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\ProfilingDebugging\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Serialization\Csv;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Serialization\Formatters;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Tests\Async;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Tests\HAL;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Tests\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Tests\Math;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Private\Tests\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Blueprint;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Serialization;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Templates;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\UObject;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Private\Serialization\Formatters;D:\ue4\UE_4.21\Engine\Source\Runtime\CrunchCompression\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\D3D12RHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\D3D12RHI\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\DatabaseSupport\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\EmptyRHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\AI;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Analytics;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Atmosphere;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Camera;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Collision;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Commandlets;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Components;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Curves;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Debug;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\DeviceProfiles;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\EdGraph;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\EditorFramework;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Engine;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\FileCache;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\GameFramework;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Kismet;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Layers;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Materials;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\MeshVertexPainter;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\PacketHandlers;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Particles;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Performance;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\PhysicsEngine;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\ProfilingDebugging;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Rendering;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\ShaderCompiler;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Slate;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Streaming;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\UserInterface;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Vehicles;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\VisualLogger;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\VT;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\AI\Navigation;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\GameFramework\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\PhysicsEngine\Experimental;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\PhysicsEngine\ImmediatePhysics;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Private\Tests\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Rendering;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineMessages\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineSettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Experimental\Apeiron\Private\Apeiron;D:\ue4\UE_4.21\Engine\Source\Runtime\EyeTracker\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Foliage\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\FriendsAndChat\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\GameMenuBuilder\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTags\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTags\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTasks\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTasks\Private\Tasks;D:\ue4\UE_4.21\Engine\Source\Runtime\HardwareSurvey\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\HeadMountedDisplay\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\HTML5\HTML5JS\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\HTML5\HTML5PlatformFeatures\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\HTML5\MapPakDownloader\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageWrapper\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageWrapper\Private\Formats;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageWriteQueue\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\InputDevice\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\IOS\IOSAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\IOS\IOSLocalNotification\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\IOS\IOSRuntimeSettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\IOS\LaunchDaemonMessages\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\IPC\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Private\Dom;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\JsonUtilities\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Landscape\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Landscape\Private\Materials;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\Launch\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\LevelSequence\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Linux\AudioMixerSDL\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\LiveLinkInterface\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\LiveLinkMessageBusFramework\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Lumin\LuminRuntimeSettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Mac\CoreAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Mac\UnrealAudioCoreAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MaterialShaderQualitySettings\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Media\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaAssets\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaAssets\Private\Assets;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaAssets\Private\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaAssets\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaUtils\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MediaUtils\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\MeshDescription\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Messaging\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Messaging\Private\Bridge;D:\ue4\UE_4.21\Engine\Source\Runtime\Messaging\Private\Bus;D:\ue4\UE_4.21\Engine\Source\Runtime\MessagingCommon\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MessagingRpc\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MoviePlayer\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Channels;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Compilation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Evaluation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Generators;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Sections;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Tracks;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Private\Evaluation\Blending;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneCapture\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Private\Channels;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Private\Evaluation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Private\Sections;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Private\Tracks;D:\ue4\UE_4.21\Engine\Source\Runtime\MRMesh\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\MRMesh\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Private\NavAreas;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Private\NavFilters;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Private\NavGraph;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Private\NavMesh;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private\DebugUtils;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private\Detour;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private\DetourCrowd;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private\DetourTileCache;D:\ue4\UE_4.21\Engine\Source\Runtime\Navmesh\Private\Recast;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkFile\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkFileSystem\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Networking\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Networking\Private\IPv4;D:\ue4\UE_4.21\Engine\Source\Runtime\Networking\Private\Steam;D:\ue4\UE_4.21\Engine\Source\Runtime\Networking\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\HttpNetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\InMemoryNetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\LocalFileNetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\NullNetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\SaveGameNetworkReplayStreaming\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\NullDrv\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Common;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Core;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Data;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Generation;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Installer\Statistics;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\BuildPatchServices\Private\Tests\Unit;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\Apple;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\Curl;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\ICMP\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\ICMP\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\ICMP\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\ImageDownload\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\SSL\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\SSL\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\SSL\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\SSL\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Stomp\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Voice\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Voice\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Voice\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Voice\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\Voice\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\WebSockets\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\WebSockets\Private\Lws;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\XMPP\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\XMPP\Private\XmppJingle;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\XMPP\Private\XmppStrophe;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\OpenGLDrv\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Overlay\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Overlay\Private\Assets;D:\ue4\UE_4.21\Engine\Source\Runtime\Overlay\Private\Factories;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\AsymmetricEncryption\RSAEncryptionHandlerComponent\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\EncryptionHandlerComponent\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\RSAKeyAESEncryption\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\BlockEncryption\AESBlockEncryptor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\BlockEncryption\BlockEncryptionHandlerComponent\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\BlockEncryption\BlowFishBlockEncryptor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\BlockEncryption\TwoFishBlockEncryptor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\BlockEncryption\XORBlockEncryptor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\StreamEncryption\StreamEncryptionHandlerComponent\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\EncryptionComponents\SymmetricEncryption\StreamEncryption\XORStreamEncryptor\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\PacketHandler\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PakFile\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PerfCounters\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PhysXCooking\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\LauncherCheck\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\LauncherPlatform\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\LauncherPlatform\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\LauncherPlatform\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\LauncherPlatform\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Messages\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Proxies\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Proxies\Private\Account;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Proxies\Private\Application;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Rpc\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Portal\Services\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PreLoadScreen\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Projects\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\PropertyPath\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\RenderCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer\Private\CompositionLighting;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer\Private\PostProcess;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer\Private\VT;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private\Apple;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private\HTML5;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\RuntimeAssetCache\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\SandboxFile\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Serialization\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Serialization\Private\Backends;D:\ue4\UE_4.21\Engine\Source\Runtime\Serialization\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\SessionMessages\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\SessionServices\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\ShaderCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Application;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Commands;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Docking;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\MetaData;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\MultiBox;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Notifications;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Styling;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Text;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\MultiBox\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Text\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Framework\Text\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Colors;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Docking;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Images;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Input;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\LayerManager;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Notifications;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Text;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Private\Widgets\Views;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Application;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Brushes;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Debugging;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Fonts;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Input;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Logging;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Rendering;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Sound;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Styling;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Textures;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Types;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateNullRenderer\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateRHIRenderer\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\BSDIPv6Sockets;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\BSDSockets;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\Mac;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\Unix;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Private\HTML5\Device;D:\ue4\UE_4.21\Engine\Source\Runtime\StreamingFile\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\StreamingPauseRendering\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\SynthBenchmark\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\TimeManagement\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\TimeManagement\Private\Widgets;D:\ue4\UE_4.21\Engine\Source\Runtime\Toolbox\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\UE4Game\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private\Binding;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private\Blueprint;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private\Components;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Private\Slate;D:\ue4\UE_4.21\Engine\Source\Runtime\Unix\UnixCommonStartup\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\UnrealAudio\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\UnrealAudio\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\UtilityShaders\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\VectorVM\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\VectorVM\Private\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\VulkanRHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\VulkanRHI\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\VulkanRHI\Private\Linux;D:\ue4\UE_4.21\Engine\Source\Runtime\VulkanRHI\Private\Lumin;D:\ue4\UE_4.21\Engine\Source\Runtime\VulkanRHI\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowser\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowser\Private\Android;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowser\Private\CEF;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowser\Private\IOS;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowser\Private\MobileJS;D:\ue4\UE_4.21\Engine\Source\Runtime\WebBrowserTexture\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\WidgetCarousel\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\AudioMixerXAudio2\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\D3D11RHI\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\D3D11RHI\Private\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\UnrealAudioWasapi\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\UnrealAudioXAudio2\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\XAudio2\Private;D:\ue4\UE_4.21\Engine\Source\Runtime\XmlParser\Private;D:\ue4\UE_4.21\Engine\Source\ThirdParty\libJPG;D:\ue4\UE_4.21\Engine\Source\ThirdParty\Android\detex;</SourcePath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=0;UE_EDITOR=1;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=1;WITH_ENGINE=1;WITH_UNREAL_DEVELOPER_TOOLS=1;WITH_APPLICATION_CORE=1;WITH_COREUOBJECT=1;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=1;USE_LOGGING_IN_SHIPPING=0;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=0;UE_BUILD_MINIMAL=0;WITH_EDITOR=1;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=1;UBT_MODULE_MANIFEST="UE4Editor.modules";UBT_MODULE_MANIFEST_DEBUGGAME="UE4Editor-Win64-DebugGame.modules";UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Editor;UE_APP_NAME="UE4Editor";WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="pianoEditor.exe";UE_IS_ENGINE_MODULE=0;UE_PROJECT_NAME=piano;IMPLEMENT_ENCRYPTION_KEY_REGISTRATION()=;IMPLEMENT_SIGNING_KEY_REGISTRATION()=;DEPRECATED_FORGAME=DEPRECATED;PIANO_API=;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;WITH_MALLOC_STOMP=1;CORE_API=;COREUOBJECT_API=;INCLUDE_APEIRON=0;WITH_PHYSX=1;WITH_APEIRON=0;PHYSICS_INTERFACE_LLIMMEDIATE=0;PHYSICS_INTERFACE_PHYSX=1;WITH_APEX=1;WITH_APEX_CLOTHING=1;WITH_CLOTH_COLLISION_DETECTION=1;WITH_PHYSX_COOKING=1;WITH_NVCLOTH=1;WITH_IMMEDIATE_PHYSX=0;GPUPARTICLE_LOCAL_VF_ONLY=0;ENGINE_API=;APPLICATIONCORE_API=;RHI_API=;JSON_API=;SLATE_PARENT_POINTERS=1;WITH_FREETYPE=1;SLATECORE_API=;INPUTCORE_API=;SLATE_API=;WITH_UNREALPNG=1;WITH_UNREALJPEG=1;WITH_UNREALEXR=1;IMAGEWRAPPER_API=;MESSAGING_API=;MESSAGINGCOMMON_API=;RENDERCORE_API=;SHADERCORE_API=;SOCKETS_PACKAGE=1;SOCKETS_API=;UTILITYSHADERS_API=;ASSETREGISTRY_API=;ENGINEMESSAGES_API=;ENGINESETTINGS_API=;SYNTHBENCHMARK_API=;RENDERER_API=;GAMEPLAYTAGS_API=;DATABASESUPPORT_API=;PACKETHANDLER_API=;RELIABILITYHANDLERCOMPONENT_API=;AUDIOPLATFORMCONFIGURATION_API=;MESHDESCRIPTION_API=;PAKFILE_API=;WITH_RECAST=1;UNREALED_API=;BSPMODE_API=;DIRECTORYWATCHER_API=;DOCUMENTATION_API=;LOAD_PLUGINS_FOR_TARGET_PLATFORMS=1;PROJECTS_API=;SANDBOXFILE_API=;EDITORSTYLE_API=;SOURCE_CONTROL_WITH_SLATE=1;SOURCECONTROL_API=;UNREALEDMESSAGES_API=;GAMEPLAYDEBUGGER_API=;BLUEPRINTGRAPH_API=;HTTP_PACKAGE=1;CURL_ENABLE_DEBUG_CALLBACK=1;CURL_ENABLE_NO_TIMEOUTS_OPTION=1;HTTP_API=;UNREALAUDIO_API=;FUNCTIONALTESTING_API=;AUTOMATIONCONTROLLER_API=;LOCALIZATION_API=;AUDIOEDITOR_API=;LEVELEDITOR_API=;SETTINGS_API=;INTROTUTORIALS_API=;HEADMOUNTEDDISPLAY_API=;VREDITOR_API=;COMMONMENUEXTENSIONS_API=;LANDSCAPE_API=;PROPERTYEDITOR_API=;ACTORPICKERMODE_API=;SCENEDEPTHPICKERMODE_API=;DETAILCUSTOMIZATIONS_API=;CLASSVIEWER_API=;GRAPHEDITOR_API=;CONTENTBROWSER_API=;ENABLE_HTTP_FOR_NFS=1;NETWORKFILESYSTEM_API=;UMG_API=;MOVIESCENE_API=;TIMEMANAGEMENT_API=;MOVIESCENETRACKS_API=;ANIMATIONCORE_API=;PROPERTYPATH_API=;NAVIGATIONSYSTEM_API=;MESHBUILDER_API=;MATERIALSHADERQUALITYSETTINGS_API=;WITH_OGGVORBIS=1;XAUDIO2_API=;AUDIOMIXERXAUDIO2_API=;COLLECTIONMANAGER_API=;ADDCONTENTDIALOG_API=;USE_EMBREE=1;MESHUTILITIES_API=;MESHMERGEUTILITIES_API=;HIERARCHICALLODUTILITIES_API=;MESHREDUCTIONINTERFACE_API=;ASSETTOOLS_API=;KISMETCOMPILER_API=;GAMEPLAYTASKS_API=;WITH_GAMEPLAY_DEBUGGER=1;AIMODULE_API=;KISMET_API=;CLOTHINGSYSTEMRUNTIMEINTERFACE_API=;NETWORKREPLAYSTREAMING_API=;AUDIOMIXER_API=;UELIBSAMPLERATE_API=</NMakePreprocessorDefinitions>
+    <NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);D:\ue4\UE_4.21\Engine\Source;..\Build\Win64\UE4Editor\Inc\piano;..\..\Source;..\..\Source\piano;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Core;D:\ue4\UE_4.21\Engine\Source\Runtime;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Core;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Algo;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Algo\Impl;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Async;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Clang;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Containers;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Delegates;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Features;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\FramePro;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\HAL;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\HAL\Allocators;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Hash;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Logging;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Math;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Modules;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Modules\Boilerplate;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\ProfilingDebugging;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Serialization;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Serialization\Csv;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Serialization\Formatters;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Stats;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Templates;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Traits;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\UObject;D:\ue4\UE_4.21\Engine\Source\Runtime\Core\Public\Windows;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Blueprint;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Misc;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Serialization;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Serialization\Formatters;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\Templates;D:\ue4\UE_4.21\Engine\Source\Runtime\CoreUObject\Public\UObject;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\AI;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\AI\Navigation;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Analytics;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Curves;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\EdGraph;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Internationalization;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Net;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\PacketHandlers;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Performance;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Physics;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Physics\Experimental;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Physics\ImmediatePhysics;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\ProfilingDebugging;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Rendering;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Slate;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\Tests;D:\ue4\UE_4.21\Engine\Source\Runtime\Engine\Public\VisualLogger;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ApplicationCore;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Public\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Public\HAL;D:\ue4\UE_4.21\Engine\Source\Runtime\ApplicationCore\Public\Windows;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RHI;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\RHI;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Json;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Json;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Public\Dom;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Public\Policies;D:\ue4\UE_4.21\Engine\Source\Runtime\Json\Public\Serialization;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Application;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Brushes;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Debugging;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Fonts;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Input;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Logging;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Rendering;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Sound;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Styling;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Textures;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Types;D:\ue4\UE_4.21\Engine\Source\Runtime\SlateCore\Public\Widgets;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InputCore;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Public\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Public\HAL;D:\ue4\UE_4.21\Engine\Source\Runtime\InputCore\Public\Windows;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Application;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Commands;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Docking;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\MetaData;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\MultiBox;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Notifications;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Styling;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Text;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Framework\Views;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Colors;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Docking;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Images;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Input;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\LayerManager;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Layout;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Navigation;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Notifications;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Text;D:\ue4\UE_4.21\Engine\Source\Runtime\Slate\Public\Widgets\Views;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ImageWrapper;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageWrapper\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\ImageWrapper;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Messaging;D:\ue4\UE_4.21\Engine\Source\Runtime\Messaging\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Messaging;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MessagingCommon;D:\ue4\UE_4.21\Engine\Source\Runtime\MessagingCommon\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\MessagingCommon;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RenderCore;D:\ue4\UE_4.21\Engine\Source\Runtime\RenderCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\RenderCore;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ShaderCore;D:\ue4\UE_4.21\Engine\Source\Runtime\ShaderCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\ShaderCore;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Sockets;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Sockets;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UtilityShaders;D:\ue4\UE_4.21\Engine\Source\Runtime\UtilityShaders\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\UtilityShaders;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry;D:\ue4\UE_4.21\Engine\Source\Runtime\AssetRegistry\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\AssetRegistry;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineMessages;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineMessages\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineMessages;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EngineSettings;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineSettings\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineSettings\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\EngineSettings;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SynthBenchmark;D:\ue4\UE_4.21\Engine\Source\Runtime\SynthBenchmark\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\SynthBenchmark;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Renderer;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Renderer;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTags;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTags\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTags\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTags;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DatabaseSupport;D:\ue4\UE_4.21\Engine\Source\Runtime\DatabaseSupport\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\DatabaseSupport;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PacketHandler;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\PacketHandler\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\PacketHandler\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\PacketHandler;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ReliabilityHandlerComponent;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\PacketHandlers\ReliabilityHandlerComponent;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioPlatformConfiguration;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioPlatformConfiguration\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioPlatformConfiguration;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshDescription;D:\ue4\UE_4.21\Engine\Source\Runtime\MeshDescription\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\MeshDescription;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PakFile;D:\ue4\UE_4.21\Engine\Source\Runtime\PakFile\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\PakFile;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd;D:\ue4\UE_4.21\Engine\Source\Editor;D:\ue4\UE_4.21\Engine\Source\Programs\UnrealLightmass\Public;D:\ue4\UE_4.21\Engine\Source\Developer\Android\AndroidDeviceDetection\Public\Interfaces;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\AutoReimport;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Bookmarks;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Commandlets;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Dialogs;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\DragAndDrop;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Features;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Kismet2;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Layers;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Settings;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Tests;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEd\Public\Toolkits;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BspMode;D:\ue4\UE_4.21\Engine\Source\Editor\BspMode\Public;D:\ue4\UE_4.21\Engine\Source\Editor\BspMode;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DirectoryWatcher;D:\ue4\UE_4.21\Engine\Source\Developer;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher\Public;D:\ue4\UE_4.21\Engine\Source\Developer\DirectoryWatcher;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Documentation;D:\ue4\UE_4.21\Engine\Source\Editor\Documentation\Public;D:\ue4\UE_4.21\Engine\Source\Editor\Documentation;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Projects;D:\ue4\UE_4.21\Engine\Source\Runtime\Projects\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Projects;D:\ue4\UE_4.21\Engine\Source\Runtime\Projects\Public\Interfaces;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SandboxFile;D:\ue4\UE_4.21\Engine\Source\Runtime\SandboxFile\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\SandboxFile;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle;D:\ue4\UE_4.21\Engine\Source\Editor\EditorStyle\Public;D:\ue4\UE_4.21\Engine\Source\Editor\EditorStyle;D:\ue4\UE_4.21\Engine\Source\Editor\EditorStyle\Public\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\EditorStyle\Public\Interfaces;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl;D:\ue4\UE_4.21\Engine\Source\Developer\SourceControl\Public;D:\ue4\UE_4.21\Engine\Source\Developer\SourceControl;D:\ue4\UE_4.21\Engine\Source\Developer\SourceControl\Public\Tests;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEdMessages;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEdMessages\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEdMessages\Public;D:\ue4\UE_4.21\Engine\Source\Editor\UnrealEdMessages;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayDebugger;D:\ue4\UE_4.21\Engine\Source\Developer\GameplayDebugger\Public;D:\ue4\UE_4.21\Engine\Source\Developer\GameplayDebugger;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\BlueprintGraph;D:\ue4\UE_4.21\Engine\Source\Editor\BlueprintGraph\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\BlueprintGraph\Public;D:\ue4\UE_4.21\Engine\Source\Editor\BlueprintGraph;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HTTP;D:\ue4\UE_4.21\Engine\Source\Runtime\Online;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Public\GenericPlatform;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Public\Interfaces;D:\ue4\UE_4.21\Engine\Source\Runtime\Online\HTTP\Public\Windows;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealAudio;D:\ue4\UE_4.21\Engine\Source\Runtime\UnrealAudio\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\UnrealAudio;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\FunctionalTesting;D:\ue4\UE_4.21\Engine\Source\Developer\FunctionalTesting\Classes;D:\ue4\UE_4.21\Engine\Source\Developer\FunctionalTesting\Public;D:\ue4\UE_4.21\Engine\Source\Developer\FunctionalTesting;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AutomationController;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationController\Public;D:\ue4\UE_4.21\Engine\Source\Developer\AutomationController;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Localization;D:\ue4\UE_4.21\Engine\Source\Developer\Localization\Public;D:\ue4\UE_4.21\Engine\Source\Developer\Localization;D:\ue4\UE_4.21\Engine\Source\Developer\Localization\Public\Serialization;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioEditor;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Public;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor;D:\ue4\UE_4.21\Engine\Source\Editor\AudioEditor\Public\AssetTypeActions;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\LevelEditor;D:\ue4\UE_4.21\Engine\Source\Editor\LevelEditor\Public;D:\ue4\UE_4.21\Engine\Source\Editor\LevelEditor;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Settings;D:\ue4\UE_4.21\Engine\Source\Developer\Settings\Public;D:\ue4\UE_4.21\Engine\Source\Developer\Settings;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\IntroTutorials;D:\ue4\UE_4.21\Engine\Source\Editor\IntroTutorials\Public;D:\ue4\UE_4.21\Engine\Source\Editor\IntroTutorials;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HeadMountedDisplay;D:\ue4\UE_4.21\Engine\Source\Runtime\HeadMountedDisplay\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\HeadMountedDisplay;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\VREditor;D:\ue4\UE_4.21\Engine\Source\Editor\VREditor;D:\ue4\UE_4.21\Engine\Source\Editor\VREditor\Public;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CommonMenuExtensions;D:\ue4\UE_4.21\Engine\Source\Editor\CommonMenuExtensions\Public;D:\ue4\UE_4.21\Engine\Source\Editor\CommonMenuExtensions;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Landscape;D:\ue4\UE_4.21\Engine\Source\Runtime\Landscape\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\Landscape\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Landscape;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyEditor;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor\Public;D:\ue4\UE_4.21\Engine\Source\Editor\PropertyEditor;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ActorPickerMode;D:\ue4\UE_4.21\Engine\Source\Editor\ActorPickerMode\Public;D:\ue4\UE_4.21\Engine\Source\Editor\ActorPickerMode;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SceneDepthPickerMode;D:\ue4\UE_4.21\Engine\Source\Editor\SceneDepthPickerMode\Public;D:\ue4\UE_4.21\Engine\Source\Editor\SceneDepthPickerMode;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\DetailCustomizations;D:\ue4\UE_4.21\Engine\Source\Editor\DetailCustomizations\Public;D:\ue4\UE_4.21\Engine\Source\Editor\DetailCustomizations;D:\ue4\UE_4.21\Engine\Source\Editor\DetailCustomizations\Public\Customizations;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ClassViewer;D:\ue4\UE_4.21\Engine\Source\Editor\ClassViewer\Public;D:\ue4\UE_4.21\Engine\Source\Editor\ClassViewer;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GraphEditor;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Public;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Public\KismetNodes;D:\ue4\UE_4.21\Engine\Source\Editor\GraphEditor\Public\KismetPins;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser;D:\ue4\UE_4.21\Engine\Source\Editor\ContentBrowser\Public;D:\ue4\UE_4.21\Engine\Source\Editor\ContentBrowser;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetworkFileSystem;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkFileSystem\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkFileSystem;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UMG;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public\Animation;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public\Binding;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public\Blueprint;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public\Components;D:\ue4\UE_4.21\Engine\Source\Runtime\UMG\Public\Slate;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Channels;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Compilation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Evaluation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Generators;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Sections;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieScene\Public\Tracks;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\TimeManagement;D:\ue4\UE_4.21\Engine\Source\Runtime\TimeManagement\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\TimeManagement;D:\ue4\UE_4.21\Engine\Source\Runtime\TimeManagement\Public\Widgets;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Public\Channels;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Public\Evaluation;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Public\Sections;D:\ue4\UE_4.21\Engine\Source\Runtime\MovieSceneTracks\Public\Tracks;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AnimationCore;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimationCore\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\AnimationCore;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\PropertyPath;D:\ue4\UE_4.21\Engine\Source\Runtime\PropertyPath\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\PropertyPath;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NavigationSystem;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Public\NavAreas;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Public\NavFilters;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Public\NavGraph;D:\ue4\UE_4.21\Engine\Source\Runtime\NavigationSystem\Public\NavMesh;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshBuilder;D:\ue4\UE_4.21\Engine\Source\Developer\MeshBuilder\Public;D:\ue4\UE_4.21\Engine\Source\Developer\MeshBuilder;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MaterialShaderQualitySettings;D:\ue4\UE_4.21\Engine\Source\Runtime\MaterialShaderQualitySettings\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\MaterialShaderQualitySettings;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\XAudio2;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\XAudio2\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\XAudio2;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixerXAudio2;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\Windows\AudioMixerXAudio2;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CollectionManager;D:\ue4\UE_4.21\Engine\Source\Developer\CollectionManager\Public;D:\ue4\UE_4.21\Engine\Source\Developer\CollectionManager;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AddContentDialog;D:\ue4\UE_4.21\Engine\Source\Editor\AddContentDialog\Public;D:\ue4\UE_4.21\Engine\Source\Editor\AddContentDialog;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshUtilities;D:\ue4\UE_4.21\Engine\Source\ThirdParty\IntelEmbree\Embree2140\Win64\include;D:\ue4\UE_4.21\Engine\Source\Developer\MeshUtilities\Public;D:\ue4\UE_4.21\Engine\Source\Developer\MeshUtilities;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshMergeUtilities;D:\ue4\UE_4.21\Engine\Source\Developer\MeshMergeUtilities\Public;D:\ue4\UE_4.21\Engine\Source\Developer\MeshMergeUtilities;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\HierarchicalLODUtilities;D:\ue4\UE_4.21\Engine\Source\Developer\HierarchicalLODUtilities\Public;D:\ue4\UE_4.21\Engine\Source\Developer\HierarchicalLODUtilities;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MeshReductionInterface;D:\ue4\UE_4.21\Engine\Source\Developer\MeshReductionInterface\Public;D:\ue4\UE_4.21\Engine\Source\Developer\MeshReductionInterface;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools;D:\ue4\UE_4.21\Engine\Source\Developer\AssetTools\Public;D:\ue4\UE_4.21\Engine\Source\Developer\AssetTools;D:\ue4\UE_4.21\Engine\Source\Developer\AssetTools\Public\AssetTypeActions;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\KismetCompiler;D:\ue4\UE_4.21\Engine\Source\Editor\KismetCompiler\Public;D:\ue4\UE_4.21\Engine\Source\Editor\KismetCompiler;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\GameplayTasks;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTasks\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTasks\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\GameplayTasks;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AIModule;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\AIModule;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Kismet;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Classes;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Public;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Public\Nodes;D:\ue4\UE_4.21\Engine\Source\Editor\Kismet\Public\WorkflowOrientedApp;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntimeInterface\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\ClothingSystemRuntimeInterface;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\NetworkReplayStreaming;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public;D:\ue4\UE_4.21\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AudioMixer;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Classes;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Public\Components;D:\ue4\UE_4.21\Engine\Source\Runtime\AudioMixer\Public\DSP;D:\ue4\UE_4.21\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UELibSampleRate;D:\ue4\UE_4.21\Engine\Source\ThirdParty;D:\ue4\UE_4.21\Engine\Source\ThirdParty\libSampleRate\Public;D:\ue4\UE_4.21\Engine\Source\ThirdParty\libSampleRate;F:\visual\VC\Tools\MSVC\14.16.27023\INCLUDE;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um;C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\winrt;;</NMakeIncludeSearchPath>
+    <NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
+    <NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
+    <NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>
+  </PropertyGroup>
+  <ItemDefinitionGroup>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
